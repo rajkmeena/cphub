@@ -21,7 +21,7 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
-f = open('c:/Users/l/Desktop/pr project fi/backend/crawler/crawler/spiders/call_for_proposals.json')
+f = open('./crawler/spiders/call_for_proposals.json')
 data = json.load(f)
 @app.get('/file')
 async def home():
