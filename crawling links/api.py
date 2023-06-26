@@ -6,23 +6,34 @@ from fastapi.middleware.cors import CORSMiddleware
 app = FastAPI()
 origins = ["*"]
 
-def get_events():
-    r = requests.get('http://google.com/search?q=calls%20for%20proposals')
-    soup = BeautifulSoup(r.content, 'html.parser')
-    s = soup.find_all('a')
-    data_list = []
-    url = {}
-    cnt = 1
-    for i in s:
-        if i.get("href")[7] != 'h':
-            continue
-        if i.get("href").find('google.com') != -1:
-            continue
+def update_json_data(json_data):
+    event_list = json_data["event_list"]
+    updated_data = {}
 
-        ur = i.get("href").split('&')[0]
-        url[cnt] = ur[7:]
-        cnt += 1
-    return url
+    for idx, url in enumerate(event_list, start=1):
+        updated_data[str(idx)] = url
+
+    return updated_data
+
+def get_events():
+    page_count = 5  # Number of pages to scrape
+    event_data = []
+    for page in range(1, page_count + 1):
+        url = f"http://google.com/search?q=call+for+proposals&start={((page-1)*10)}"
+        r = requests.get(url)
+        soup = BeautifulSoup(r.content, 'html.parser')
+        links = soup.find_all('a')
+
+        for link in links:
+            if link.get("href")[7] != 'h':
+                continue
+            if link.get("href").find('google.com') != -1:
+                continue
+
+            url = link.get("href").split('&')[0][7:]
+            event_data.append(url)
+
+    return update_json_data({"event_list": event_data})
 
 app.add_middleware(
     CORSMiddleware,

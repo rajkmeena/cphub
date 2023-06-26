@@ -3,6 +3,43 @@ import React from 'react'
 import {useState, useEffect} from 'react'
 import validator from 'validator';
 import './TableStruc.css'
+// import 'json'
+// import datetime from 'datetime'
+// import 'dateparser'
+
+
+// function checkDate(ans){
+//   const json_data = JSON.stringify(ans); // Convert ans[] to JSON string
+//   const data = JSON.parse(json_data); // Parse JSON string to object
+
+//   const current_date = new Date(); // Get current date and time
+
+//   const filtered_objects = [];
+//   for (const sublist of data) {
+//     const filtered_sublist = [];
+//     for (const obj of sublist) {
+//       for (let [index, [key, value]] of Object.entries(Object.entries(obj))) {
+//         index = parseInt(index);
+//         if (index === 0 && /^\d+$/.test(value)) {
+//           continue;
+//         }
+//         if (typeof value === "string") {
+//           const parsed_date = dateparser.parse(value);
+//           if (parsed_date && parsed_date > current_date) {
+//             filtered_sublist.push(obj);
+//             break;
+//           }
+//         }
+//       }
+//     }
+//     filtered_objects.push(filtered_sublist);
+//   }
+//   const filtered_json = JSON.stringify(filtered_objects, null, 2); // Convert filtered_objects to formatted JSON string
+//   console.log(filtered_json); // Print filtered_json to the console
+
+//   // Return the modified ans[] or filtered_objects if needed
+//   return ans;
+// }
 
 function isNumeric(n) {
   return !isNaN(parseFloat(n)) && isFinite(n);
@@ -14,6 +51,9 @@ function isValidUrl(arr) {
   }
   return null
 };
+
+
+
 const objMap=(obj)=>{
   let ans=[]
   let string = null
@@ -41,6 +81,9 @@ const objMap=(obj)=>{
   }
   return ans
 }
+
+
+
 const TableStruc = () => {
   const [data, setData] = useState([]);
 const getData = () => {
