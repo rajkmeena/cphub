@@ -5,7 +5,7 @@
 /frontend/cphub/node_modules
 /.pnp
 .pnp.js
-/backend/crawler/crawler/spider/call_for_proposals.json
+/backend/crawler/crawler/spiders/call_for_proposals.json
 
 # testing
 /coverage
