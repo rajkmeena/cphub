@@ -1,4 +1,34 @@
-[[],[
+[[
+    {
+        "1": "",
+        "2": "DST-JSPS 2023 Call",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": "06/07/2023",
+        "7": "",
+        "8": "",
+        "9": "06/09/2023",
+        "10": "",
+        "links": [
+            "/callforproposals/dst-jsps-2023-call"
+        ]
+    },
+    {
+        "1": "",
+        "2": "Call for proposal for conducting DST-NGP Geo Innovation Challenge Program and Summer/ Winter Schools in Geospatial Science and Technology",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": "06/07/2023",
+        "7": "",
+        "8": "",
+        "9": "12/08/2023",
+        "10": "",
+        "links": [
+            "/callforproposals/call-proposal-conducting-dst-ngp-geo-innovation-challenge-program-and-summer-winter"
+        ]
+    },
     {
         "1": "",
         "2": "10th India-Israel Industrial R&D and Technological Innovation Fund (I4F)",
@@ -12,24 +42,6 @@
         "10": "",
         "links": [
             "/callforproposals/10th-india-israel-industrial-rd-and-technological-innovation-fund-i4f"
-        ]
-    },
-    {
-        "1": "",
-        "2": "Call for Proposals under STI Hubs for Development of SC and ST Communities",
-        "3": "",
-        "4": "",
-        "5": "Download (990.81 KB)",
-        "6": "",
-        "7": "",
-        "8": "07/06/2023",
-        "9": "",
-        "10": "",
-        "11": "31/07/2023",
-        "12": "",
-        "links": [
-            "/callforproposals/call-proposals-under-sti-hubs-development-sc-and-st-communities",
-            "https://dst.gov.in/sites/default/files/Call%20for%20Proposal_1.pdf"
         ]
     },
     {
@@ -52,6 +64,39 @@
     },
     {
         "1": "",
+        "2": "Call for Proposals under STI Hubs for Development of SC and ST Communities",
+        "3": "",
+        "4": "",
+        "5": "Download (990.81 KB)",
+        "6": "",
+        "7": "",
+        "8": "07/06/2023",
+        "9": "",
+        "10": "",
+        "11": "31/07/2023",
+        "12": "",
+        "links": [
+            "/callforproposals/call-proposals-under-sti-hubs-development-sc-and-st-communities",
+            "https://dst.gov.in/sites/default/files/Call%20for%20Proposal_1.pdf"
+        ]
+    },
+    {
+        "1": "",
+        "2": "SSP Call for Proposals under NIDHI Programme",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": "07/07/2023",
+        "7": "",
+        "8": "",
+        "9": "31/07/2023",
+        "10": "",
+        "links": [
+            "/callforproposals/ssp-call-proposals-under-nidhi-programme"
+        ]
+    },
+    {
+        "1": "",
         "2": "Call for proposal of SATHI Program 2023",
         "3": "",
         "4": "",
@@ -67,59 +112,429 @@
             "/callforproposals/call-proposal-sathi-program-2023",
             "https://dst.gov.in/sites/default/files/Call%20for%20Proposals-%20SATHI-%202023.pdf"
         ]
+    }
+],[],[],[
+    {},
+    {
+        "1": "Call for proposal under Innovation & STEM Demonstration",
+        "2": "24.73 KB",
+        "3": "",
+        "links": [
+            "/sites/default/files/stem.pdf"
+        ]
     },
     {
+        "1": "Technology Interventions For Disabled & Elderly (TIDE) Programe",
+        "2": "305.51 KB",
+        "3": "Forms",
+        "4": "102.8 KB",
+        "links": [
+            "/sites/default/files/tie_proposal_2012.pdf",
+            "/sites/default/files/tie_format.pdf"
+        ]
+    },
+    {
+        "1": "Call for applications for ASEAN-India Research Training Fellowships",
+        "2": "",
+        "links": [
+            "http://aistic.gov.in/ASEAN/aistdfFellowship"
+        ]
+    },
+    {
+        "1": "Call for R&D proposals under ASEAN-India Science & Technology Cooperation program",
+        "2": "",
+        "links": [
+            "http://aistic.gov.in/ASEAN/aistdfCollaborative"
+        ]
+    },
+    {
+        "1": "Abdul Kalam Technology Innovation National Fellowship",
+        "2": "62.35 KB",
+        "3": "Form",
+        "4": "112.78 KB",
+        "links": [
+            "/sites/default/files/Guidelines%20for%20Abdul%20KalamTechnology%20Innovation%20National%20Fellowship.pdf",
+            "/sites/default/files/Nomination%20Form%20Abdul%20Kalam%20Technology%20Innovation%20National%20fellowship.pdf"
+        ]
+    },
+    {
+        "1": "Announcement for inviting applications for Research & Training Fellowships for Developing Country Scientist (RTF-DCS)",
+        "2": "",
+        "links": [
+            "http://aistic.gov.in/ASEAN/guidelinesDCS"
+        ]
+    },
+    {
+        "1": "SERB Research Scientist Scheme",
+        "2": "121.01 KB",
+        "3": "",
+        "links": [
+            "/sites/default/files/SRS-Scheme_0.pdf"
+        ]
+    },
+    {
+        "1": "Announcement for inviting Technologies /Innovation/ Idea for support under ASEAN-India S&T Development Fund",
+        "2": "",
+        "links": [
+            "https://aistic.gov.in/ASEAN/aistdfInnovatPltm"
+        ]
+    }
+],[
+    {
         "1": "",
-        "2": "Call for Project Proposals under S&T for Women Programme",
+        "2": "Call for proposals for DST- Intel Joint Programme on Collaborative Research on River water and Air Quality Monitoring",
         "3": "",
         "4": "",
-        "5": "Download (395.79 KB)",
-        "6": "",
+        "5": "",
+        "6": "21/12/2016",
         "7": "",
-        "8": "08/06/2023",
-        "9": "",
+        "8": "",
+        "9": "10/03/2017",
         "10": "",
-        "11": "07/07/2023",
-        "12": "",
         "links": [
-            "/callforproposals/call-project-proposals-under-st-women-programme",
-            "https://dst.gov.in/sites/default/files/Call%20for%20Project%20Proposals%20under%20S%26T%20for%20Women%20Programme.pdf"
+            "/callforproposals/call-proposals-dst-intel-joint-programme-collaborative-research-river-water-and-air"
         ]
     },
     {
         "1": "",
-        "2": "iTBI Call for Proposals  Under NIDHI Programme",
+        "2": "Bhaskara Advanced Solar Energy Fellowship Program",
         "3": "",
         "4": "",
-        "5": "Download (486.12 KB)",
+        "5": "Download (1.92 MB)",
         "6": "",
         "7": "",
-        "8": "02/06/2023",
+        "8": "19/01/2017",
         "9": "",
         "10": "",
-        "11": "30/06/2023",
+        "11": "15/03/2017",
         "12": "",
         "links": [
-            "/callforproposals/itbi-call-proposals-under-nidhi-programme",
-            "https://dst.gov.in/sites/default/files/iTBI%20Guideline%20%281%29.pdf"
+            "/callforproposals/bhaskara-advanced-solar-energy-fellowship-program",
+            "https://dst.gov.in/sites/default/files/BASE-Program-Flyer-2017.pdf"
         ]
     },
     {
         "1": "",
-        "2": "Call for Project Proposals under Technology Development Programme (TDP)",
+        "2": "Energy Demand Reduction in the Built Environment: Joint India-UK Call for Proposals",
         "3": "",
         "4": "",
-        "5": "Download (400.72 KB)",
+        "5": "Download (197 KB)",
         "6": "",
         "7": "",
-        "8": "26/05/2023",
+        "8": "25/01/2017",
         "9": "",
         "10": "",
-        "11": "30/06/2023",
+        "11": "15/03/2017",
         "12": "",
         "links": [
-            "/callforproposals/call-project-proposals-under-technology-development-programme-tdp",
-            "https://dst.gov.in/sites/default/files/TDP%20Call%20for%20Project%20Proposal%20%281%29.pdf"
+            "/callforproposals/energy-demand-reduction-built-environment-joint-india-uk-call-proposals",
+            "https://dst.gov.in/sites/default/files/UK-India-Built-Environment-Call.pdf"
+        ]
+    },
+    {
+        "1": "",
+        "2": "Call for Proposals (2017-18) - Centre for Human and Organisational Resource Development (CHORD Division)",
+        "3": "",
+        "4": "",
+        "5": "Download (252.49 KB)",
+        "6": "",
+        "7": "",
+        "8": "30/01/2017",
+        "9": "",
+        "10": "",
+        "11": "15/03/2017",
+        "12": "",
+        "links": [
+            "/callforproposals/call-proposals-2017-18-centre-human-and-organisational-resource-development-chord",
+            "https://dst.gov.in/sites/default/files/NSTMIS-Advt%202017-18.pdf"
+        ]
+    },
+    {
+        "1": "",
+        "2": "SERB Overseas Postdoctoral Fellowship 2016-17: Call for Applications (Other than USA). Submission deadline: 15 March, 2017",
+        "3": "",
+        "4": "",
+        "5": "Download (735.43 KB)",
+        "6": "",
+        "7": "",
+        "8": "31/01/2017",
+        "9": "",
+        "10": "",
+        "11": "15/03/2017",
+        "12": "",
+        "links": [
+            "/callforproposals/serb-overseas-postdoctoral-fellowship-2016-17-call-applications-other-usa",
+            "https://dst.gov.in/sites/default/files/Overseas%20Postdoctoral%20Fellowship%202016-17%20-WebAdvt_0.pdf"
+        ]
+    },
+    {
+        "1": "",
+        "2": "Invitation of Proposals from the institutes for conducting training programme under the scheme \"National Programme for Training of Scientists & Technologists in the Govt. Sector\"",
+        "3": "",
+        "4": "",
+        "5": "Download (1.06 MB)",
+        "6": "",
+        "7": "",
+        "8": "08/02/2017",
+        "9": "",
+        "10": "",
+        "11": "17/03/2017",
+        "12": "",
+        "links": [
+            "/callforproposals/invitation-proposals-institutes-conducting-training-programme-under-scheme-national",
+            "https://dst.gov.in/sites/default/files/advertisement.pdf"
+        ]
+    },
+    {
+        "1": "",
+        "2": "Detailed Call For Proposals (CFP) under ICPS programme",
+        "3": "",
+        "4": "",
+        "5": "Download (102.88 KB)",
+        "6": "",
+        "7": "",
+        "8": "09/01/2017",
+        "9": "",
+        "10": "",
+        "11": "31/03/2017",
+        "12": "",
+        "links": [
+            "/callforproposals/detailed-call-proposals-cfp-under-icps-programme",
+            "https://dst.gov.in/sites/default/files/ICPS-detailed%20call-webpage.pdf"
+        ]
+    },
+    {
+        "1": "",
+        "2": "Chinese Government Scholarship 2017-2018",
+        "3": "",
+        "4": "",
+        "5": "Download (273.35 KB)",
+        "6": "",
+        "7": "",
+        "8": "10/03/2017",
+        "9": "",
+        "10": "",
+        "11": "01/04/2017",
+        "12": "",
+        "links": [
+            "/callforproposals/chinese-government-scholarship-2017-2018",
+            "https://dst.gov.in/sites/default/files/Public%20Notice%20China.pdf"
+        ]
+    },
+    {
+        "1": "",
+        "2": "Call for proposals for Clean Coal Research & Development (CCORD) - 2017",
+        "3": "",
+        "4": "",
+        "5": "Download (121.87 KB)",
+        "6": "",
+        "7": "",
+        "8": "07/02/2017",
+        "9": "",
+        "10": "",
+        "11": "07/04/2017",
+        "12": "",
+        "links": [
+            "/callforproposals/call-proposals-clean-coal-research-development-ccord-2017",
+            "https://dst.gov.in/sites/default/files/Final-Call-document-Clean-Coal-7Feb-17.pdf"
+        ]
+    },
+    {
+        "1": "",
+        "2": "UNESCO/Poland Co-Sponsored Fellowship Programme in Engineering, Cycle 2017",
+        "3": "",
+        "4": "",
+        "5": "Download (1.51 MB)",
+        "6": "",
+        "7": "",
+        "8": "07/03/2017",
+        "9": "",
+        "10": "",
+        "11": "14/04/2017",
+        "12": "",
+        "links": [
+            "/callforproposals/unescopoland-co-sponsored-fellowship-programme-engineering-cycle-2017",
+            "https://dst.gov.in/sites/default/files/UNESCO%20Poland%20Fellowship%202017.pdf"
+        ]
+    },
+    {
+        "1": "",
+        "2": "Advertisement - SwarnaJayanti Fellowships 2016-17",
+        "3": "",
+        "4": "",
+        "5": "Download (75.27 KB)",
+        "6": "",
+        "7": "",
+        "8": "09/01/2017",
+        "9": "",
+        "10": "",
+        "11": "15/04/2017",
+        "12": "",
+        "links": [
+            "/callforproposals/advertisement-swarnajayanti-fellowships-2016-17",
+            "https://dst.gov.in/sites/default/files/ADVERTISEMENT-SWARNAJAYANTI-FELLOWSHIPS-2016-17.pdf"
+        ]
+    },
+    {
+        "1": "",
+        "2": "Call for Proposals under Water Technology Initiative (WTI-2016) for Demand Driven Convergent Water Solutions in Mission mode.",
+        "3": "",
+        "4": "",
+        "5": "Download (76.82 KB)",
+        "6": "",
+        "7": "",
+        "8": "01/02/2017",
+        "9": "",
+        "10": "",
+        "11": "15/04/2017",
+        "12": "",
+        "links": [
+            "/callforproposals/call-proposals-under-water-technology-initiative-wti-2016-demand-driven-convergen-1",
+            "https://dst.gov.in/sites/default/files/Water-Mission-Projects-Call-extended-call_0.pdf"
+        ]
+    },
+    {
+        "1": "",
+        "2": "India-UK Water Quality Research Programme",
+        "3": "",
+        "4": "",
+        "5": "Download (182.91 KB)",
+        "6": "",
+        "7": "",
+        "8": "01/03/2017",
+        "9": "",
+        "10": "",
+        "11": "26/04/2017",
+        "12": "",
+        "links": [
+            "/callforproposals/india-uk-water-quality-research-programme",
+            "https://dst.gov.in/sites/default/files/Final%20India-UK%20Water%20Quality%20-%20AO_2.pdf"
+        ]
+    },
+    {
+        "1": "",
+        "2": "Call for Proposals under Water Technology Initiative (WTI-2017) for WATER Technology Research and Innovation Centres (WATER-IC)",
+        "3": "",
+        "4": "",
+        "5": "Download (70.18 KB)",
+        "6": "",
+        "7": "",
+        "8": "01/02/2017",
+        "9": "",
+        "10": "",
+        "11": "30/04/2017",
+        "12": "",
+        "links": [
+            "/callforproposals/call-proposals-under-water-technology-initiative-wti-2017-water-technology-resear-0",
+            "https://dst.gov.in/sites/default/files/WATER%20IC%20Call%20material%20extended%20call.pdf"
+        ]
+    },
+    {
+        "1": "",
+        "2": "Announcement for inviting applications for participation in 2nd BRICS Young Scientist Forum Hangzhou, China (11-15 July 2017)",
+        "3": "",
+        "4": "",
+        "5": "Download (166.54 KB)",
+        "6": "",
+        "7": "",
+        "8": "22/03/2017",
+        "9": "",
+        "10": "",
+        "11": "30/04/2017",
+        "12": "",
+        "links": [
+            "/callforproposals/announcement-inviting-applications-participation-2nd-brics-young-scientist-forum",
+            "https://dst.gov.in/sites/default/files/Announcement-BRICS%20YS%20Forum-2017%20_1_.pdf"
+        ]
+    },
+    {
+        "1": "",
+        "2": "Call for Oriented Research & Technology Development Proposals on Materials for Energy Storage (MES) - 2017",
+        "3": "",
+        "4": "",
+        "5": "Download (94.33 KB)",
+        "6": "",
+        "7": "",
+        "8": "07/02/2017",
+        "9": "",
+        "10": "",
+        "11": "01/05/2017",
+        "12": "",
+        "links": [
+            "/callforproposals/call-oriented-research-technology-development-proposals-materials-energy-storage",
+            "https://dst.gov.in/sites/default/files/MES-2017.pdf"
+        ]
+    },
+    {
+        "1": "",
+        "2": "India-Canada Collaborative Industrial Research & Development Program 2017",
+        "3": "",
+        "4": "",
+        "5": "Download (83.99 KB)",
+        "6": "",
+        "7": "",
+        "8": "03/02/2017",
+        "9": "",
+        "10": "",
+        "11": "15/05/2017",
+        "12": "",
+        "links": [
+            "/callforproposals/india-canada-collaborative-industrial-research-development-program-2017",
+            "https://dst.gov.in/sites/default/files/India-Canada%20Collaborative%20Program%202017%20-Website.pdf"
+        ]
+    },
+    {
+        "1": "",
+        "2": "DST  - BELSPO Joint Call for Proposals",
+        "3": "",
+        "4": "",
+        "5": "Download (102.09 KB)",
+        "6": "",
+        "7": "",
+        "8": "28/02/2017",
+        "9": "",
+        "10": "",
+        "11": "20/05/2017",
+        "12": "",
+        "links": [
+            "/callforproposals/dst-belspo-joint-call-proposals",
+            "https://dst.gov.in/sites/default/files/Belgcall2017.pdf"
+        ]
+    },
+    {
+        "1": "",
+        "2": "Indo-Norway call on Renewable Energy 2017",
+        "3": "",
+        "4": "",
+        "5": "Download (210.7 KB)",
+        "6": "",
+        "7": "",
+        "8": "23/03/2017",
+        "9": "",
+        "10": "",
+        "11": "24/05/2017",
+        "12": "",
+        "links": [
+            "/callforproposals/indo-norway-call-renewable-energy-2017",
+            "https://dst.gov.in/sites/default/files/India-Norway-Joint-Call-on-Renewable-Energy-2017.pdf"
+        ]
+    },
+    {
+        "1": "",
+        "2": "2nd Call for DST Science, Technology, and Innovation Policy Postdoctoral Fellowship",
+        "3": "",
+        "4": "",
+        "5": "Download (723.82 KB)",
+        "6": "",
+        "7": "",
+        "8": "17/04/2017",
+        "9": "",
+        "10": "",
+        "11": "30/05/2017",
+        "12": "",
+        "links": [
+            "/callforproposals/2nd-call-dst-science-technology-and-innovation-policy-postdoctoral-fellowship",
+            "https://dst.gov.in/sites/default/files/DST_STI_Policy_Fellowships%202nd%20Advts%202017.pdf"
         ]
     }
 ],[
@@ -140,21 +555,6 @@
     },
     {
         "1": "2",
-        "2": "Indo-UK DBT-BBSRC Joint Call on Farmed Animal Diseases and Health",
-        "3": "",
-        "4": "02/05/2023",
-        "5": "to",
-        "6": "11/07/2023",
-        "7": "",
-        "8": "",
-        "9": "View (336.23 KB)",
-        "10": "",
-        "links": [
-            "https://dbtindia.gov.in/sites/default/files/DBT%20Approved_Final%20DBT-BBSRC%20Joint%20Call%202023_0.pdf"
-        ]
-    },
-    {
-        "1": "3",
         "2": "DBT-EU Coopration Programme on R&I \u2018Horizon Europe\u2019 Calls 2023-2024",
         "3": "",
         "4": "14/02/2023",
@@ -168,9 +568,37 @@
             "https://dbtindia.gov.in/sites/default/files/DBT-EU%20joint%20call%20WEBNOTICEWP%202023-24_0.pdf"
         ]
     }
-],[],[],[
+],[],[
     {
         "1": "1",
+        "2": "",
+        "3": "BIRAC Announces 23rd Call for Proposals under the Biotechnology Ignition Grant BIG Scheme : Last Date -16th August 2023 05:30 PM...",
+        "4": "",
+        "5": "",
+        "6": "Opens on 01st July 2023",
+        "7": "",
+        "8": "Last Date of Submission 16-08-2023 05:30 PM",
+        "9": "",
+        "links": [
+            "cfp_view.php?id=30&scheme_type=5"
+        ]
+    },
+    {
+        "1": "2",
+        "2": "",
+        "3": "BIRAC ANNOUNCES CALL FOR PROPOSAL FOR SETTING UP OF E-YUVA CENTRES 1st July -16th August, 2023...",
+        "4": "",
+        "5": "",
+        "6": "Opens on 01st July 2023",
+        "7": "",
+        "8": "Last Date of Submission 16-08-2023 05:30 PM",
+        "9": "",
+        "links": [
+            "cfp_view.php?id=82&scheme_type=31"
+        ]
+    },
+    {
+        "1": "3",
         "2": "",
         "3": "BIRAC Announces Challenge Call for Proposals Under BIPP Scheme 15th June- 31 July, 2023...",
         "4": "",
@@ -184,7 +612,7 @@
         ]
     },
     {
-        "1": "2",
+        "1": "4",
         "2": "",
         "3": "BIRAC Announces Challenge Call For Proposals Under PACE Scheme 15th June - 31st July, 2023...",
         "4": "",
@@ -198,7 +626,7 @@
         ]
     },
     {
-        "1": "3",
+        "1": "5",
         "2": "",
         "3": "BIRAC Announces Challenge Call For Proposals Under SBIRI Scheme 15th June - 31st July, 2023...",
         "4": "",
@@ -212,7 +640,7 @@
         ]
     },
     {
-        "1": "4",
+        "1": "6",
         "2": "",
         "3": "BIRAC Announces Call for under Proposal Early Translational Accelerator...",
         "4": "",
@@ -224,7 +652,7 @@
         ]
     },
     {
-        "1": "5",
+        "1": "7",
         "2": "",
         "3": "BIRAC Announces Call for Proposals under BioNEST Scheme...",
         "4": "",
@@ -236,7 +664,7 @@
         ]
     },
     {
-        "1": "6",
+        "1": "8",
         "2": "",
         "3": "BIRAC Announces Call for under Proposal Product Commercialization Program Fund...",
         "4": "",
@@ -3383,364 +3811,6 @@
             "cfp_view.php?id=1&scheme_type=2"
         ]
     }
-],[],[],[],[
-    {
-        "1": "",
-        "2": "Call for proposals for DST- Intel Joint Programme on Collaborative Research on River water and Air Quality Monitoring",
-        "3": "",
-        "4": "",
-        "5": "",
-        "6": "21/12/2016",
-        "7": "",
-        "8": "",
-        "9": "10/03/2017",
-        "10": "",
-        "links": [
-            "/callforproposals/call-proposals-dst-intel-joint-programme-collaborative-research-river-water-and-air"
-        ]
-    },
-    {
-        "1": "",
-        "2": "Bhaskara Advanced Solar Energy Fellowship Program",
-        "3": "",
-        "4": "",
-        "5": "Download (1.92 MB)",
-        "6": "",
-        "7": "",
-        "8": "19/01/2017",
-        "9": "",
-        "10": "",
-        "11": "15/03/2017",
-        "12": "",
-        "links": [
-            "/callforproposals/bhaskara-advanced-solar-energy-fellowship-program",
-            "https://dst.gov.in/sites/default/files/BASE-Program-Flyer-2017.pdf"
-        ]
-    },
-    {
-        "1": "",
-        "2": "Energy Demand Reduction in the Built Environment: Joint India-UK Call for Proposals",
-        "3": "",
-        "4": "",
-        "5": "Download (197 KB)",
-        "6": "",
-        "7": "",
-        "8": "25/01/2017",
-        "9": "",
-        "10": "",
-        "11": "15/03/2017",
-        "12": "",
-        "links": [
-            "/callforproposals/energy-demand-reduction-built-environment-joint-india-uk-call-proposals",
-            "https://dst.gov.in/sites/default/files/UK-India-Built-Environment-Call.pdf"
-        ]
-    },
-    {
-        "1": "",
-        "2": "Call for Proposals (2017-18) - Centre for Human and Organisational Resource Development (CHORD Division)",
-        "3": "",
-        "4": "",
-        "5": "Download (252.49 KB)",
-        "6": "",
-        "7": "",
-        "8": "30/01/2017",
-        "9": "",
-        "10": "",
-        "11": "15/03/2017",
-        "12": "",
-        "links": [
-            "/callforproposals/call-proposals-2017-18-centre-human-and-organisational-resource-development-chord",
-            "https://dst.gov.in/sites/default/files/NSTMIS-Advt%202017-18.pdf"
-        ]
-    },
-    {
-        "1": "",
-        "2": "SERB Overseas Postdoctoral Fellowship 2016-17: Call for Applications (Other than USA). Submission deadline: 15 March, 2017",
-        "3": "",
-        "4": "",
-        "5": "Download (735.43 KB)",
-        "6": "",
-        "7": "",
-        "8": "31/01/2017",
-        "9": "",
-        "10": "",
-        "11": "15/03/2017",
-        "12": "",
-        "links": [
-            "/callforproposals/serb-overseas-postdoctoral-fellowship-2016-17-call-applications-other-usa",
-            "https://dst.gov.in/sites/default/files/Overseas%20Postdoctoral%20Fellowship%202016-17%20-WebAdvt_0.pdf"
-        ]
-    },
-    {
-        "1": "",
-        "2": "Invitation of Proposals from the institutes for conducting training programme under the scheme \"National Programme for Training of Scientists & Technologists in the Govt. Sector\"",
-        "3": "",
-        "4": "",
-        "5": "Download (1.06 MB)",
-        "6": "",
-        "7": "",
-        "8": "08/02/2017",
-        "9": "",
-        "10": "",
-        "11": "17/03/2017",
-        "12": "",
-        "links": [
-            "/callforproposals/invitation-proposals-institutes-conducting-training-programme-under-scheme-national",
-            "https://dst.gov.in/sites/default/files/advertisement.pdf"
-        ]
-    },
-    {
-        "1": "",
-        "2": "Detailed Call For Proposals (CFP) under ICPS programme",
-        "3": "",
-        "4": "",
-        "5": "Download (102.88 KB)",
-        "6": "",
-        "7": "",
-        "8": "09/01/2017",
-        "9": "",
-        "10": "",
-        "11": "31/03/2017",
-        "12": "",
-        "links": [
-            "/callforproposals/detailed-call-proposals-cfp-under-icps-programme",
-            "https://dst.gov.in/sites/default/files/ICPS-detailed%20call-webpage.pdf"
-        ]
-    },
-    {
-        "1": "",
-        "2": "Chinese Government Scholarship 2017-2018",
-        "3": "",
-        "4": "",
-        "5": "Download (273.35 KB)",
-        "6": "",
-        "7": "",
-        "8": "10/03/2017",
-        "9": "",
-        "10": "",
-        "11": "01/04/2017",
-        "12": "",
-        "links": [
-            "/callforproposals/chinese-government-scholarship-2017-2018",
-            "https://dst.gov.in/sites/default/files/Public%20Notice%20China.pdf"
-        ]
-    },
-    {
-        "1": "",
-        "2": "Call for proposals for Clean Coal Research & Development (CCORD) - 2017",
-        "3": "",
-        "4": "",
-        "5": "Download (121.87 KB)",
-        "6": "",
-        "7": "",
-        "8": "07/02/2017",
-        "9": "",
-        "10": "",
-        "11": "07/04/2017",
-        "12": "",
-        "links": [
-            "/callforproposals/call-proposals-clean-coal-research-development-ccord-2017",
-            "https://dst.gov.in/sites/default/files/Final-Call-document-Clean-Coal-7Feb-17.pdf"
-        ]
-    },
-    {
-        "1": "",
-        "2": "UNESCO/Poland Co-Sponsored Fellowship Programme in Engineering, Cycle 2017",
-        "3": "",
-        "4": "",
-        "5": "Download (1.51 MB)",
-        "6": "",
-        "7": "",
-        "8": "07/03/2017",
-        "9": "",
-        "10": "",
-        "11": "14/04/2017",
-        "12": "",
-        "links": [
-            "/callforproposals/unescopoland-co-sponsored-fellowship-programme-engineering-cycle-2017",
-            "https://dst.gov.in/sites/default/files/UNESCO%20Poland%20Fellowship%202017.pdf"
-        ]
-    },
-    {
-        "1": "",
-        "2": "Advertisement - SwarnaJayanti Fellowships 2016-17",
-        "3": "",
-        "4": "",
-        "5": "Download (75.27 KB)",
-        "6": "",
-        "7": "",
-        "8": "09/01/2017",
-        "9": "",
-        "10": "",
-        "11": "15/04/2017",
-        "12": "",
-        "links": [
-            "/callforproposals/advertisement-swarnajayanti-fellowships-2016-17",
-            "https://dst.gov.in/sites/default/files/ADVERTISEMENT-SWARNAJAYANTI-FELLOWSHIPS-2016-17.pdf"
-        ]
-    },
-    {
-        "1": "",
-        "2": "Call for Proposals under Water Technology Initiative (WTI-2016) for Demand Driven Convergent Water Solutions in Mission mode.",
-        "3": "",
-        "4": "",
-        "5": "Download (76.82 KB)",
-        "6": "",
-        "7": "",
-        "8": "01/02/2017",
-        "9": "",
-        "10": "",
-        "11": "15/04/2017",
-        "12": "",
-        "links": [
-            "/callforproposals/call-proposals-under-water-technology-initiative-wti-2016-demand-driven-convergen-1",
-            "https://dst.gov.in/sites/default/files/Water-Mission-Projects-Call-extended-call_0.pdf"
-        ]
-    },
-    {
-        "1": "",
-        "2": "India-UK Water Quality Research Programme",
-        "3": "",
-        "4": "",
-        "5": "Download (182.91 KB)",
-        "6": "",
-        "7": "",
-        "8": "01/03/2017",
-        "9": "",
-        "10": "",
-        "11": "26/04/2017",
-        "12": "",
-        "links": [
-            "/callforproposals/india-uk-water-quality-research-programme",
-            "https://dst.gov.in/sites/default/files/Final%20India-UK%20Water%20Quality%20-%20AO_2.pdf"
-        ]
-    },
-    {
-        "1": "",
-        "2": "Call for Proposals under Water Technology Initiative (WTI-2017) for WATER Technology Research and Innovation Centres (WATER-IC)",
-        "3": "",
-        "4": "",
-        "5": "Download (70.18 KB)",
-        "6": "",
-        "7": "",
-        "8": "01/02/2017",
-        "9": "",
-        "10": "",
-        "11": "30/04/2017",
-        "12": "",
-        "links": [
-            "/callforproposals/call-proposals-under-water-technology-initiative-wti-2017-water-technology-resear-0",
-            "https://dst.gov.in/sites/default/files/WATER%20IC%20Call%20material%20extended%20call.pdf"
-        ]
-    },
-    {
-        "1": "",
-        "2": "Announcement for inviting applications for participation in 2nd BRICS Young Scientist Forum Hangzhou, China (11-15 July 2017)",
-        "3": "",
-        "4": "",
-        "5": "Download (166.54 KB)",
-        "6": "",
-        "7": "",
-        "8": "22/03/2017",
-        "9": "",
-        "10": "",
-        "11": "30/04/2017",
-        "12": "",
-        "links": [
-            "/callforproposals/announcement-inviting-applications-participation-2nd-brics-young-scientist-forum",
-            "https://dst.gov.in/sites/default/files/Announcement-BRICS%20YS%20Forum-2017%20_1_.pdf"
-        ]
-    },
-    {
-        "1": "",
-        "2": "Call for Oriented Research & Technology Development Proposals on Materials for Energy Storage (MES) - 2017",
-        "3": "",
-        "4": "",
-        "5": "Download (94.33 KB)",
-        "6": "",
-        "7": "",
-        "8": "07/02/2017",
-        "9": "",
-        "10": "",
-        "11": "01/05/2017",
-        "12": "",
-        "links": [
-            "/callforproposals/call-oriented-research-technology-development-proposals-materials-energy-storage",
-            "https://dst.gov.in/sites/default/files/MES-2017.pdf"
-        ]
-    },
-    {
-        "1": "",
-        "2": "India-Canada Collaborative Industrial Research & Development Program 2017",
-        "3": "",
-        "4": "",
-        "5": "Download (83.99 KB)",
-        "6": "",
-        "7": "",
-        "8": "03/02/2017",
-        "9": "",
-        "10": "",
-        "11": "15/05/2017",
-        "12": "",
-        "links": [
-            "/callforproposals/india-canada-collaborative-industrial-research-development-program-2017",
-            "https://dst.gov.in/sites/default/files/India-Canada%20Collaborative%20Program%202017%20-Website.pdf"
-        ]
-    },
-    {
-        "1": "",
-        "2": "DST  - BELSPO Joint Call for Proposals",
-        "3": "",
-        "4": "",
-        "5": "Download (102.09 KB)",
-        "6": "",
-        "7": "",
-        "8": "28/02/2017",
-        "9": "",
-        "10": "",
-        "11": "20/05/2017",
-        "12": "",
-        "links": [
-            "/callforproposals/dst-belspo-joint-call-proposals",
-            "https://dst.gov.in/sites/default/files/Belgcall2017.pdf"
-        ]
-    },
-    {
-        "1": "",
-        "2": "Indo-Norway call on Renewable Energy 2017",
-        "3": "",
-        "4": "",
-        "5": "Download (210.7 KB)",
-        "6": "",
-        "7": "",
-        "8": "23/03/2017",
-        "9": "",
-        "10": "",
-        "11": "24/05/2017",
-        "12": "",
-        "links": [
-            "/callforproposals/indo-norway-call-renewable-energy-2017",
-            "https://dst.gov.in/sites/default/files/India-Norway-Joint-Call-on-Renewable-Energy-2017.pdf"
-        ]
-    },
-    {
-        "1": "",
-        "2": "2nd Call for DST Science, Technology, and Innovation Policy Postdoctoral Fellowship",
-        "3": "",
-        "4": "",
-        "5": "Download (723.82 KB)",
-        "6": "",
-        "7": "",
-        "8": "17/04/2017",
-        "9": "",
-        "10": "",
-        "11": "30/05/2017",
-        "12": "",
-        "links": [
-            "/callforproposals/2nd-call-dst-science-technology-and-innovation-policy-postdoctoral-fellowship",
-            "https://dst.gov.in/sites/default/files/DST_STI_Policy_Fellowships%202nd%20Advts%202017.pdf"
-        ]
-    }
 ],[],[],[
     {},
     {
@@ -4398,7 +4468,7 @@
             "https://cict.in/pdf/Notification%20-%20The%20Presidential%20Awards%20for%20Classical%20Tamil%20for%20the%20year%202020%20-%2021(1).pdf"
         ]
     }
-],[],[],[],[],[
+],[],[
     {
         "1": "",
         "2": "Domains",
@@ -4817,7 +4887,196 @@
         "33": "",
         "34": ""
     }
-],[],[],[],[],[
+],[],[],[
+    {
+        "1": "1",
+        "2": "SERB-EMEQ (Empowerment and\u00a0\u00a0\u00a0Equity Opportunities for Excellence in Science)",
+        "3": "30.06.2021"
+    },
+    {
+        "1": "Link:\u00a0\u00a0\u00a0https://www.serbonline.in/SERB/Weaker_section?HomePage=New",
+        "links": [
+            "https://www.serbonline.in/SERB/Weaker_section?HomePage=New"
+        ]
+    },
+    {
+        "1": "2",
+        "2": "Indo-French Centre for the\u00a0\u00a0\u00a0Promotion of Advanced Research (CEFIPRA) Collaborative Scientific Research\u00a0\u00a0\u00a0Programme",
+        "3": "15.07.2021"
+    },
+    {
+        "1": "Link:\u00a0\u00a0\u00a0http://www.cefipra.org/Collaborative_Research.aspx",
+        "links": [
+            "http://www.cefipra.org/Collaborative_Research.aspx"
+        ]
+    },
+    {
+        "1": "3",
+        "2": "SERB-STAR (Science and\u00a0\u00a0\u00a0Technology Award for Research)",
+        "3": "28.07.2021"
+    },
+    {
+        "1": "Link: https://serbonline.in/SERB/Star?HomePage=New",
+        "links": [
+            "https://serbonline.in/SERB/Star?HomePage=New"
+        ]
+    },
+    {
+        "1": "4",
+        "2": "Call for proposal NASA-Human\u00a0\u00a0\u00a0Exploration Research Opportunities (HERO)",
+        "3": "30.07.2021"
+    },
+    {
+        "1": "Link:\u00a0\u00a0\u00a0https://tinyurl.com/HERO20OVERVIEW",
+        "links": [
+            "https://tinyurl.com/HERO20OVERVIEW"
+        ]
+    },
+    {
+        "1": "5",
+        "2": "MERCK Research Grant 2021",
+        "3": "31.08.2021"
+    },
+    {
+        "1": "Link:\u00a0\u00a0\u00a0https://www.merckgroup.com/en/research/open-innovation/2021-research-grants/rd-digital-innovation.html",
+        "links": [
+            "https://www.merckgroup.com/en/research/open-innovation/2021-research-grants/rd-digital-innovation.html"
+        ]
+    },
+    {
+        "1": "6",
+        "2": "SERB-TETRA (Technology\u00a0\u00a0\u00a0Translation Award)",
+        "3": "30.09.2021"
+    },
+    {
+        "1": "Link:\u00a0\u00a0\u00a0https://www.serbonline.in/SERB/Tetra",
+        "links": [
+            "https://www.serbonline.in/SERB/Tetra"
+        ]
+    },
+    {
+        "1": "7",
+        "2": "Call proposal ASEAN-INDIA\u00a0\u00a0\u00a0RESEARCH TRAINING FELLOWSHIP (AI-RTF)",
+        "3": "30.09.2021"
+    },
+    {
+        "1": "Link: https://aistic.gov.in/ASEAN/aistdfFellowship",
+        "links": [
+            "https://aistic.gov.in/ASEAN/aistdfFellowship"
+        ]
+    },
+    {
+        "1": "8",
+        "2": "SERB-National Science Chair\u00a0\u00a0\u00a0(NSC)",
+        "3": "01.09.2021 to 31.10.2021"
+    },
+    {
+        "1": "Link:\u00a0\u00a0\u00a0https://www.serbonline.in/SERB/nationalScienceChair?HomePage=New",
+        "links": [
+            "https://www.serbonline.in/SERB/nationalScienceChair?HomePage=New"
+        ]
+    },
+    {
+        "1": "9",
+        "2": "ASEAN-India call for R&D\u00a0\u00a0\u00a0proposal",
+        "3": "1st Jan, 1st Apr, 1st July, 1st Oct",
+        "4": "[Quarter of Each Year]"
+    },
+    {
+        "1": "Link:\u00a0\u00a0\u00a0http://dst.gov.in/sites/default/files/ASEAN-India%20Call%20for%20R%26amp%3BD%20proposals.pdf",
+        "links": [
+            "http://dst.gov.in/sites/default/files/ASEAN-India%20Call%20for%20R%26amp%3BD%20proposals.pdf"
+        ]
+    },
+    {
+        "1": "10",
+        "2": "Australia-India Strategic\u00a0\u00a0\u00a0Research Fund (AISRF) Collaborating with India on Science and Research",
+        "3": "Annually"
+    },
+    {
+        "1": "Link:\u00a0\u00a0\u00a0https://www.industry.gov.au/funding-and-incentives/collaborating-with-india-on-science-and-research",
+        "links": [
+            "https://www.industry.gov.au/funding-and-incentives/collaborating-with-india-on-science-and-research"
+        ]
+    },
+    {
+        "1": "11",
+        "2": "SERC-Women Scientist Award",
+        "3": "Throughout the year [under SERB of DST]"
+    },
+    {
+        "1": "Link:\u00a0\u00a0\u00a0https://www.serc-dst.org/adver2004.html",
+        "links": [
+            "https://www.serc-dst.org/adver2004.html"
+        ]
+    },
+    {
+        "1": "12",
+        "2": "SERB-RAMANUJAN FELLOWSHIP",
+        "3": "Any Time"
+    },
+    {
+        "1": "Link:\u00a0\u00a0\u00a0https://www.serbonline.in/SERB/Ramanujan_fellowship?HomePage=New",
+        "links": [
+            "https://www.serbonline.in/SERB/Ramanujan_fellowship?HomePage=New"
+        ]
+    },
+    {
+        "1": "13",
+        "2": "DST Govt. of India on Nano\u00a0\u00a0\u00a0Science Technology (NSTI)",
+        "3": "Any Time"
+    },
+    {
+        "1": "Link:\u00a0\u00a0\u00a0https://www.serb.gst.org/NSTI-PHD.html",
+        "links": [
+            "https://www.serb.gst.org/NSTI-PHD.html"
+        ]
+    },
+    {
+        "1": "14",
+        "2": "J.C.Bose National Fellowship",
+        "3": "Any Time"
+    },
+    {
+        "1": "Link:\u00a0\u00a0\u00a0http://www.serb.gov.in/jcbn.php",
+        "links": [
+            "http://www.serb.gov.in/jcbn.php"
+        ]
+    },
+    {
+        "1": "15",
+        "2": "Advanced Hydrogen and Fuel Cell\u00a0\u00a0\u00a0Programme (AHFC)-DST",
+        "3": "30.07.2021"
+    },
+    {
+        "1": "Link:\u00a0\u00a0\u00a0https://dst.gov.in/callforproposals/advanced-hydrogen-and-fuel-cell-programme-ahfc",
+        "links": [
+            "https://dst.gov.in/callforproposals/advanced-hydrogen-and-fuel-cell-programme-ahfc"
+        ]
+    },
+    {
+        "1": "16",
+        "2": "Open Call for Indo-German\u00a0\u00a0\u00a0Bilateral Workshops",
+        "3": "31.07.2021"
+    },
+    {
+        "1": "Link: https://www.igstc.org/home/open_call",
+        "links": [
+            "https://www.igstc.org/home/open_call"
+        ]
+    },
+    {
+        "1": "17",
+        "2": "Special Call for Indo-German\u00a0\u00a0\u00a0Bilateral Virtual Workshops",
+        "3": "Throughout the year on rolling basis"
+    },
+    {
+        "1": "Link:\u00a0\u00a0\u00a0https://www.igstc.org/home/virtual_workshops_call",
+        "links": [
+            "https://www.igstc.org/home/virtual_workshops_call"
+        ]
+    }
+],[
     {
         "1": "",
         "2": "Scheme Name",
@@ -5178,196 +5437,7 @@
         "8": "11/02/2021\u00a0to\u00a020/04/2021",
         "9": ""
     }
-],[
-    {
-        "1": "1",
-        "2": "SERB-EMEQ (Empowerment and\u00a0\u00a0\u00a0Equity Opportunities for Excellence in Science)",
-        "3": "30.06.2021"
-    },
-    {
-        "1": "Link:\u00a0\u00a0\u00a0https://www.serbonline.in/SERB/Weaker_section?HomePage=New",
-        "links": [
-            "https://www.serbonline.in/SERB/Weaker_section?HomePage=New"
-        ]
-    },
-    {
-        "1": "2",
-        "2": "Indo-French Centre for the\u00a0\u00a0\u00a0Promotion of Advanced Research (CEFIPRA) Collaborative Scientific Research\u00a0\u00a0\u00a0Programme",
-        "3": "15.07.2021"
-    },
-    {
-        "1": "Link:\u00a0\u00a0\u00a0http://www.cefipra.org/Collaborative_Research.aspx",
-        "links": [
-            "http://www.cefipra.org/Collaborative_Research.aspx"
-        ]
-    },
-    {
-        "1": "3",
-        "2": "SERB-STAR (Science and\u00a0\u00a0\u00a0Technology Award for Research)",
-        "3": "28.07.2021"
-    },
-    {
-        "1": "Link: https://serbonline.in/SERB/Star?HomePage=New",
-        "links": [
-            "https://serbonline.in/SERB/Star?HomePage=New"
-        ]
-    },
-    {
-        "1": "4",
-        "2": "Call for proposal NASA-Human\u00a0\u00a0\u00a0Exploration Research Opportunities (HERO)",
-        "3": "30.07.2021"
-    },
-    {
-        "1": "Link:\u00a0\u00a0\u00a0https://tinyurl.com/HERO20OVERVIEW",
-        "links": [
-            "https://tinyurl.com/HERO20OVERVIEW"
-        ]
-    },
-    {
-        "1": "5",
-        "2": "MERCK Research Grant 2021",
-        "3": "31.08.2021"
-    },
-    {
-        "1": "Link:\u00a0\u00a0\u00a0https://www.merckgroup.com/en/research/open-innovation/2021-research-grants/rd-digital-innovation.html",
-        "links": [
-            "https://www.merckgroup.com/en/research/open-innovation/2021-research-grants/rd-digital-innovation.html"
-        ]
-    },
-    {
-        "1": "6",
-        "2": "SERB-TETRA (Technology\u00a0\u00a0\u00a0Translation Award)",
-        "3": "30.09.2021"
-    },
-    {
-        "1": "Link:\u00a0\u00a0\u00a0https://www.serbonline.in/SERB/Tetra",
-        "links": [
-            "https://www.serbonline.in/SERB/Tetra"
-        ]
-    },
-    {
-        "1": "7",
-        "2": "Call proposal ASEAN-INDIA\u00a0\u00a0\u00a0RESEARCH TRAINING FELLOWSHIP (AI-RTF)",
-        "3": "30.09.2021"
-    },
-    {
-        "1": "Link: https://aistic.gov.in/ASEAN/aistdfFellowship",
-        "links": [
-            "https://aistic.gov.in/ASEAN/aistdfFellowship"
-        ]
-    },
-    {
-        "1": "8",
-        "2": "SERB-National Science Chair\u00a0\u00a0\u00a0(NSC)",
-        "3": "01.09.2021 to 31.10.2021"
-    },
-    {
-        "1": "Link:\u00a0\u00a0\u00a0https://www.serbonline.in/SERB/nationalScienceChair?HomePage=New",
-        "links": [
-            "https://www.serbonline.in/SERB/nationalScienceChair?HomePage=New"
-        ]
-    },
-    {
-        "1": "9",
-        "2": "ASEAN-India call for R&D\u00a0\u00a0\u00a0proposal",
-        "3": "1st Jan, 1st Apr, 1st July, 1st Oct",
-        "4": "[Quarter of Each Year]"
-    },
-    {
-        "1": "Link:\u00a0\u00a0\u00a0http://dst.gov.in/sites/default/files/ASEAN-India%20Call%20for%20R%26amp%3BD%20proposals.pdf",
-        "links": [
-            "http://dst.gov.in/sites/default/files/ASEAN-India%20Call%20for%20R%26amp%3BD%20proposals.pdf"
-        ]
-    },
-    {
-        "1": "10",
-        "2": "Australia-India Strategic\u00a0\u00a0\u00a0Research Fund (AISRF) Collaborating with India on Science and Research",
-        "3": "Annually"
-    },
-    {
-        "1": "Link:\u00a0\u00a0\u00a0https://www.industry.gov.au/funding-and-incentives/collaborating-with-india-on-science-and-research",
-        "links": [
-            "https://www.industry.gov.au/funding-and-incentives/collaborating-with-india-on-science-and-research"
-        ]
-    },
-    {
-        "1": "11",
-        "2": "SERC-Women Scientist Award",
-        "3": "Throughout the year [under SERB of DST]"
-    },
-    {
-        "1": "Link:\u00a0\u00a0\u00a0https://www.serc-dst.org/adver2004.html",
-        "links": [
-            "https://www.serc-dst.org/adver2004.html"
-        ]
-    },
-    {
-        "1": "12",
-        "2": "SERB-RAMANUJAN FELLOWSHIP",
-        "3": "Any Time"
-    },
-    {
-        "1": "Link:\u00a0\u00a0\u00a0https://www.serbonline.in/SERB/Ramanujan_fellowship?HomePage=New",
-        "links": [
-            "https://www.serbonline.in/SERB/Ramanujan_fellowship?HomePage=New"
-        ]
-    },
-    {
-        "1": "13",
-        "2": "DST Govt. of India on Nano\u00a0\u00a0\u00a0Science Technology (NSTI)",
-        "3": "Any Time"
-    },
-    {
-        "1": "Link:\u00a0\u00a0\u00a0https://www.serb.gst.org/NSTI-PHD.html",
-        "links": [
-            "https://www.serb.gst.org/NSTI-PHD.html"
-        ]
-    },
-    {
-        "1": "14",
-        "2": "J.C.Bose National Fellowship",
-        "3": "Any Time"
-    },
-    {
-        "1": "Link:\u00a0\u00a0\u00a0http://www.serb.gov.in/jcbn.php",
-        "links": [
-            "http://www.serb.gov.in/jcbn.php"
-        ]
-    },
-    {
-        "1": "15",
-        "2": "Advanced Hydrogen and Fuel Cell\u00a0\u00a0\u00a0Programme (AHFC)-DST",
-        "3": "30.07.2021"
-    },
-    {
-        "1": "Link:\u00a0\u00a0\u00a0https://dst.gov.in/callforproposals/advanced-hydrogen-and-fuel-cell-programme-ahfc",
-        "links": [
-            "https://dst.gov.in/callforproposals/advanced-hydrogen-and-fuel-cell-programme-ahfc"
-        ]
-    },
-    {
-        "1": "16",
-        "2": "Open Call for Indo-German\u00a0\u00a0\u00a0Bilateral Workshops",
-        "3": "31.07.2021"
-    },
-    {
-        "1": "Link: https://www.igstc.org/home/open_call",
-        "links": [
-            "https://www.igstc.org/home/open_call"
-        ]
-    },
-    {
-        "1": "17",
-        "2": "Special Call for Indo-German\u00a0\u00a0\u00a0Bilateral Virtual Workshops",
-        "3": "Throughout the year on rolling basis"
-    },
-    {
-        "1": "Link:\u00a0\u00a0\u00a0https://www.igstc.org/home/virtual_workshops_call",
-        "links": [
-            "https://www.igstc.org/home/virtual_workshops_call"
-        ]
-    }
-],[],[],[],[
+],[],[],[
     {
         "1": "",
         "2": "",
@@ -6416,7 +6486,530 @@
             "/dordoldn/data/call-for-proposals/Ministry-of-Road-Transport-&-Highway.pdf"
         ]
     }
-],[],[],[],[],[],[],[],[],[],[],[
+],[
+    {
+        "1": "",
+        "2": "Terms\\Activities",
+        "3": "",
+        "4": "",
+        "5": "Joint Research Projects",
+        "6": "",
+        "7": "",
+        "8": "Joint Seminars",
+        "9": ""
+    },
+    {
+        "1": "",
+        "2": "Participants from India",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": "",
+        "7": "At the time of submitting their application, applicants must hold a full-time or equivalent position as a faculty in the field of social sciences at a public funded university or research institute in India.",
+        "8": ""
+    },
+    {
+        "1": "",
+        "2": "Participants from counterpart country",
+        "3": "",
+        "4": "",
+        "5": "Researchers at a university or research institute under jurisdiction of JSPS, Japan.",
+        "6": ""
+    },
+    {
+        "1": "",
+        "2": "Participants",
+        "3": "",
+        "4": "",
+        "5": "No limitation on number of participants. Researchers who belong to institution/organization in third countries are not allowed to participate.",
+        "6": "",
+        "7": "",
+        "8": "No limitation on number of participants; Researchers from third countries may participate in seminars under the condition that they cover their own expenses.",
+        "9": ""
+    },
+    {
+        "1": "",
+        "2": "Duration",
+        "3": "",
+        "4": "",
+        "5": "Two years",
+        "6": "",
+        "7": "",
+        "8": "One Week",
+        "9": ""
+    },
+    {
+        "1": "",
+        "2": "Others",
+        "3": "",
+        "4": "",
+        "5": "With the exception of fieldwork or presentation of research reports on Joint Research Projects in an international conference, travel costs to third countries are not covered.",
+        "6": "",
+        "7": "",
+        "8": "Seminars are to be held either in India or Japan.",
+        "9": ""
+    },
+    {
+        "1": "",
+        "2": "Applications submitted to both ICSSR and JSPS and its counterpart organization by the deadlines.",
+        "3": ""
+    },
+    {
+        "1": "",
+        "2": "International travel",
+        "3": "",
+        "4": "",
+        "5": "International airfare between India and Japan.",
+        "6": ""
+    },
+    {
+        "1": "",
+        "2": "<Maintenance allowance> by JSPS",
+        "3": ""
+    },
+    {
+        "1": "",
+        "2": "Domestic travel",
+        "3": "",
+        "4": "",
+        "5": "Domestic travel expenses for members of Indian team",
+        "6": ""
+    },
+    {
+        "1": "",
+        "2": "<Domestic travel expenses and maintenance allowance for researchers of Japan during their stay in India>",
+        "3": ""
+    },
+    {
+        "1": "",
+        "2": "Other expenses",
+        "3": "",
+        "4": "",
+        "5": "Consumables, honoraria, printing, communication, meeting expenses (in India), etc.",
+        "6": ""
+    },
+    {
+        "1": "",
+        "2": "Remark",
+        "3": "",
+        "4": "",
+        "5": "It is recommended that more than 50% of total funding should be used for international/domestic travel.",
+        "6": ""
+    },
+    {
+        "1": "",
+        "2": "Domestic travel",
+        "3": "",
+        "4": "",
+        "5": "Domestic travel expenses for members of Indian team (for joint seminar, preparatory meeting and/or debriefing held in India)",
+        "6": ""
+    },
+    {
+        "1": "",
+        "2": "<Domestic travel expenses and maintenance allowance for researchers of Japan during their stay in India>",
+        "3": ""
+    },
+    {
+        "1": "",
+        "2": "Meeting expenses",
+        "3": "",
+        "4": "",
+        "5": "Consumables, honoraria, printing, communication, meeting expenses, reception, excursion, etc.",
+        "6": ""
+    },
+    {
+        "1": "",
+        "2": "International travel",
+        "3": "",
+        "4": "",
+        "5": "International airfare between India and Japan.",
+        "6": ""
+    },
+    {
+        "1": "",
+        "2": "<Maintenance allowance> by JSPS",
+        "3": ""
+    },
+    {
+        "1": "",
+        "2": "Following expenses incurred in India",
+        "3": ""
+    },
+    {
+        "1": "",
+        "2": "Domestic travel",
+        "3": "",
+        "4": "",
+        "5": "Domestic travel expenses for members of India team (for preparatory meeting and/or debriefing held in India)",
+        "6": ""
+    },
+    {
+        "1": "",
+        "2": "Meeting expenses",
+        "3": "",
+        "4": "",
+        "5": "Consumables, honoraria, printing, communication, meeting expenses (for preparatory meeting and/or debriefing), etc.",
+        "6": ""
+    },
+    {
+        "1": "",
+        "2": "Remark",
+        "3": "",
+        "4": "",
+        "5": "Costs for holding the seminars are to be covered by the counterpart organization.",
+        "6": ""
+    },
+    {
+        "1": "",
+        "2": "Research Activity",
+        "3": "",
+        "4": "",
+        "5": "Max # to be selected (Numbers)",
+        "6": "",
+        "7": "",
+        "8": "Duration",
+        "9": "",
+        "10": "",
+        "11": "Funding from ICSSR",
+        "12": "",
+        "13": "",
+        "14": "Subject Areas",
+        "15": ""
+    },
+    {
+        "1": "",
+        "2": "Joint",
+        "3": "",
+        "4": "Research",
+        "5": "",
+        "6": "Projects",
+        "7": "",
+        "8": "",
+        "9": "",
+        "10": "",
+        "11": "3",
+        "12": "",
+        "13": "",
+        "14": "Up to 2years",
+        "15": "",
+        "16": "Starting date on 1 April 2024",
+        "17": "",
+        "18": "",
+        "19": "Up to",
+        "20": "\u20b9",
+        "21": "",
+        "22": "7,00,000 per fiscal year",
+        "23": "",
+        "24": "",
+        "25": "",
+        "26": "(Up to total",
+        "27": "\u20b9",
+        "28": "",
+        "29": "14, 00,000",
+        "30": "for each project for a duration of two years)",
+        "31": "",
+        "32": "",
+        "33": "Social Sciences and Humanities",
+        "34": ""
+    },
+    {
+        "1": "",
+        "2": "Joint",
+        "3": "",
+        "4": "Seminars",
+        "5": "",
+        "6": "",
+        "7": "",
+        "8": "",
+        "9": "2",
+        "10": "",
+        "11": "",
+        "12": "Up to 1 week",
+        "13": "",
+        "14": "Seminars held during period between 1 April 2024 and 31 March 2025",
+        "15": "",
+        "16": "",
+        "17": "Up to",
+        "18": "\u20b9",
+        "19": "7,00,000 for each seminar",
+        "20": ""
+    }
+],[],[],[],[],[],[],[],[],[],[
+    {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "Elsie Initiative Fund -",
+        "6": "Open",
+        "7": "",
+        "8": "The Elsie Initiative Fund for Uniformed Women in Peace Operations (EIF) is calling for applications for its third programming round. During this round, current and prospective Troop or Police Contributing Countries (T/PCCs), as well as United Nations organizations, are invited to submit their application for funding.",
+        "9": "",
+        "10": "",
+        "11": "",
+        "12": "The eligibility criteria for both modalities along with a Letter of Interest (LOI) template and an explainer-guide are available on the EIF website (",
+        "13": "https://elsiefund.org/third-programming-round/",
+        "14": ").",
+        "15": "",
+        "16": "The closing date for submissions is 31 July 2023.",
+        "17": "",
+        "18": "",
+        "19": "",
+        "20": "",
+        "links": [
+            "https://elsiefund.org/third-programming-round/"
+        ]
+    },
+    {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "CRAF'd\u00a0-",
+        "6": "Open",
+        "7": "",
+        "8": "The",
+        "9": "Complex Risk Analytics\u00a0Fund",
+        "10": "(CRAF\u2019d) is pleased to announce an",
+        "11": "Open Call for Proposals",
+        "12": "with a funding envelope of $3 million for investments\u00a0into essential data sets on major risk events and affected populations.",
+        "13": "",
+        "14": "",
+        "15": "",
+        "16": "About the call",
+        "17": "In the face of escalating social, political, economic, and environmental challenges, data-driven approaches have become critical to improving our response to crises. However, the scarcity of risk data in crisis-affected and fragile settings often leaves crisis actors ill-equipped to respond effectively.",
+        "18": "",
+        "19": "Thematic focus",
+        "20": "CRAF\u2019d seeks projects that address this data gap by providing actionable insights into major risk events and their impact on affected populations.",
+        "21": "",
+        "22": "Application deadline is 6 August 2023.",
+        "23": "Click to apply.",
+        "24": "",
+        "25": "",
+        "26": "",
+        "27": "",
+        "links": [
+            "https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2F19843da8a5af4ec98bfa947ef0af50f7.svc.dynamics.com%2Ft%2Ft%2FuRLVq9vts6pmZAiANGF3oM9WO9uYoFhppxxsVOlTsuAx%2F5aMaC7QVr3Pd8Ji41GT9wi7BHPrrIPbMKGeWsG1xJEkx&data=05%7C01%7Cbiljana.vasic%40undp.org%7C311dbea73bda4a0e376d08db7d68f5d8%7Cb3e5db5e2944483799f57488ace54319%7C0%7C0%7C638241662474686683%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=PqFb44oceKd6Md%2Fni9Fj0ziEbelrUtdCcvr%2Bnbk4tZQ%3D&reserved=0",
+            "https://crafd.io/apply-for-funding#msdynttrid=j7jGa60YCQkwL5kcPZvPZ9NKPv6osmMjugWGQGF1au0"
+        ]
+    },
+    {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "Women's Peace and Humanitarian Fund -",
+        "6": "Open",
+        "7": "",
+        "8": "The United Nations",
+        "9": "Women\u2019s Peace and Humanitarian Fund",
+        "10": "is pleased to inform you\u00a0of\u00a0the launch of its latest",
+        "11": "Call for Proposals in Ukraine",
+        "12": "which is available in both\u00a0Ukrainian\u00a0and\u00a0English.\u00a0This Call for Proposals\u00a0provides grants for civil society organizations\u00a0working across Ukraine to ensure the protection of women and girls as well as promote their participation and leadership in humanitarian crisis and response efforts.",
+        "13": "",
+        "14": "",
+        "15": "",
+        "16": "This call\u00a0seeks to fund qualifying local civil society organizations in Ukraine through:",
+        "17": "",
+        "18": "Programmatic funding from\u202f30,000 USD to 500,000 USD",
+        "19": "",
+        "20": "",
+        "21": "To finance programmatic activities of civil society organizations that (i) promote the participation and leadership of women in humanitarian crisis and response (aligned with WPHF impact area 3) OR (ii) that enhance the protection of women and girls (aligned with WPHF impact area 5).",
+        "22": "",
+        "23": "",
+        "24": "",
+        "25": "The application deadline is",
+        "26": "28",
+        "27": "th",
+        "28": "of July 2023",
+        "29": ".",
+        "30": "",
+        "31": "",
+        "32": "",
+        "33": "",
+        "links": [
+            "https://eur03.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.wphfund.org%2F&data=05%7C01%7Cbiljana.vasic%40undp.org%7C51f707cf869c4ba6642b08db71af2c18%7Cb3e5db5e2944483799f57488ace54319%7C0%7C0%7C638228769396835235%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=CAZJ4v65vw6hSNeWV5iNOzsos0A6Ml9MWwB5wcyw75g%3D&reserved=0",
+            "https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwphfund.org%2Fcall-for-proposals-in-ukraine-2%2F&data=05%7C01%7Cbiljana.vasic%40undp.org%7C51f707cf869c4ba6642b08db71af2c18%7Cb3e5db5e2944483799f57488ace54319%7C0%7C0%7C638228769396835235%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=jyLTx3QeFvcrsnq7j55BZH2kYfzi74XKXwtF2PAkCGk%3D&reserved=0"
+        ]
+    },
+    {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "Malaysia-UN SDG Trust Fund -",
+        "6": "Open",
+        "7": "",
+        "8": "The Malaysia-UN SDG Trust Fund is a partnership between the United Nations and the Malaysian government to support sustainable development in Malaysia. The Fund aims to improve the lives of people in different areas and groups, particularly those who are at risk of being left behind, by focusing on local efforts.",
+        "9": "",
+        "10": "The Call for Proposals 2023 is an opportunity for organizations to submit proposals that contribute to the SDGs in Malaysia.",
+        "11": "",
+        "12": "",
+        "13": "",
+        "14": "The Malaysia-UN SDG Trust Fund, a collaborative initiative between the MySDG Foundation and the United Nations in Malaysia, supported by the Government of Malaysia, announces the launch of its",
+        "15": "2023 Call for Proposals (CFP-2023).",
+        "16": "This first call for proposals aims to accelerate progress towards the Sustainable Development Goals (SDGs) across Malaysia, by focusing on groups and communities at risk of being left behind.",
+        "17": "The CFP-2023 invites project proposals from UN agencies, Malaysian civil society organizations, non-governmental organizations, and academia engaged in SDG implementation and advocacy. A total sum of USD3.6 million (approximately MYR16,200,000 based on USD1= MYR4.50 exchange rate) will be disbursed to approved projects, enabling their impactful implementation.",
+        "18": "",
+        "19": "Call for proposals",
+        "20": "closes 14 July 2023",
+        "21": "",
+        "22": "Vi",
+        "23": "sit Malaysia-UN SDG Trust Fund webpage for more information.",
+        "24": "",
+        "25": "",
+        "26": "",
+        "27": "",
+        "links": [
+            "https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fmalaysia.un.org%2Fsites%2Fdefault%2Ffiles%2F2023-06%2FCFP-2023%2520Malaysia-UN%2520SDG%2520Trust%2520Fund%2520brochure_0.pdf&data=05%7C01%7Cmari.matsumoto%40undp.org%7Ccc5c56f071b641cb2d4108db6256b2b5%7Cb3e5db5e2944483799f57488ace54319%7C0%7C0%7C638211897701339545%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=HAto5x65dTCI%2BLRltS0Qj5R0bP5NGmMVNQeqTUnVP0Y%3D&reserved=0",
+            "https://malaysia.un.org/en/232871-call-proposals-2023-malaysia-un-sdg-trust-fund",
+            "https://malaysia.un.org/en/232871-call-proposals-2023-malaysia-un-sdg-trust-fund"
+        ]
+    },
+    {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "Women's Peace and Humanitarian Fund -",
+        "6": "Completed",
+        "7": "",
+        "8": "The United Nations Women\u2019s Peace and Humanitarian Fund (WPHF) is looking to strengthen collaboration with non-governmental organizations with expertise in Asia and the Pacific to enhance the protection of women human rights defenders at risk in the region.",
+        "9": "",
+        "10": "WPHF seeks to identify a credible and experienced\u00a0international, regional, or national non-governmental organization (I/NGO)\u00a0to support\u00a0its",
+        "11": "Women Human Rights Defender (WHRD) Window",
+        "12": "in providing financial support to WHRDs from and/or working in conflict and crisis contexts in Asia and the Pacific, notably Afghanistan and Myanmar.",
+        "13": "",
+        "14": "The selected I/NGO will support the\u00a0implementation of emergency grant-making to WHRDs through\u00a0the WHRD Window",
+        "15": "Safety Net stream",
+        "16": ", which provides rapid and flexible funding \u2014 currently in partnership with five INGOs \u2014 to enhance the protection of WHRDs from/working in conflict and crisis-affected countries.",
+        "17": "",
+        "18": "",
+        "19": "",
+        "20": "Eligibility",
+        "21": "I/NGOs which have experience working with WHRDs in fragile and conflict-affected contexts in Asia and the Pacific \u2014 specifically in Afghanistan and Myanmar \u2014 are eligible to apply. Organizations need to have a proven track record working on women\u2019s rights, following feminist and human-rights based principles, addressing violence against women and girls, and protection issues of women and girls. Organizations with language capabilities relevant to Afghanistan and Myanmar will be a distinct asset.",
+        "22": "",
+        "23": "Size of Grants & Funding",
+        "24": "The WPHF will grant a maximum of\u00a0$400,000 USD\u00a0to an I/NGO\u00a0and up to\u00a0$700,000 USD\u00a0for a consortium\u00a0of\u00a0I/NGOs\u00a0to\u00a0deliver on activities to meet objectives.",
+        "25": "",
+        "26": "APPLICATION PACKAGES SHOULD BE EMAILED IN ENGLISH TO",
+        "27": "WPHF-WHRD@UNWOMEN.ORG",
+        "28": "WITH THE SUBJECT LINE \u201c",
+        "29": "WPHF-WHRD I/NGO PARTNERSHIP CFP.\u201d",
+        "30": "",
+        "31": "APPLICATION DEADLINE: 10 MARCH 2023",
+        "32": "",
+        "33": "An",
+        "34": "information session",
+        "35": "will be organized with prospective applicants on",
+        "36": "23 February at 1:30 pm Geneva time",
+        "37": ".\u00a0To register your interest, please send an email to",
+        "38": "WPHF-WHRD@unwomen.org",
+        "39": "with the subject line \u201cWPHF-WHRD I/NGO Partnership Information Session.\u201d",
+        "40": "",
+        "41": "Download applications",
+        "42": "here.",
+        "43": "",
+        "44": "",
+        "45": "",
+        "46": "",
+        "links": [
+            "https://wphfund.org/whrds/",
+            "https://wphfund.org/whrds-safety-net/",
+            "mailto:WPHF-WHRD@unwomen.org",
+            "mailto:WPHF-WHRD@unwomen.org",
+            "https://wphfund.org/call-for-proposals-for-i-ngo-partner-in-asia-and-the-pacific/"
+        ]
+    },
+    {
+        "1": "",
+        "2": "CRAF'd",
+        "3": "Completed",
+        "4": "",
+        "5": "The",
+        "6": "Complex Risk Analytics\u00a0Fund",
+        "7": "(CRAF\u2019d) is pleased to announce an",
+        "8": "Open Call for Proposals on Climate Fragility Risks.",
+        "9": "",
+        "10": "With a funding envelope of $3 million, CRAF\u2019d will support projects that use analytics and artificial intelligence to help global stakeholders anticipate, prevent, and respond to climate fragility risks.",
+        "11": "",
+        "12": "Apply now",
+        "13": "and submit a concept note",
+        "14": "by 25 November 2022",
+        "15": ". Please also share this email with relevant partners.",
+        "16": "",
+        "17": "",
+        "18": "\u200c",
+        "19": "About the Call",
+        "20": "",
+        "21": "Climate change is one of the greatest global challenges of our time. More frequent and intense weather events, such as floods and heat waves, are hitting the most vulnerable people the hardest. Climate fragility risks, including food insecurity, resource water scarcity, displacement, or insecurity, can emerge when the adverse effects of climate change compound conditions in fragile contexts.",
+        "22": "CRAF\u2019d is seeking projects that unlock the potential of analytics and artificial intelligence to contribute to a better understanding of climate fragility risks and translate insights into earlier, faster, and more targeted crisis action. In addition, CRAF\u2019d will support projects that advance monitoring and evaluation of data-driven crisis action related to climate fragility risks.",
+        "23": "Information Sessions",
+        "24": "If you are interested to learn more about this Open Call for Proposals and the application process, please register for one of the information sessions on",
+        "25": "Wednesday, 9 November 2022.",
+        "links": [
+            "https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2F19843da8a5af4ec98bfa947ef0af50f7.svc.dynamics.com%2Ft%2Ft%2FdDHGPrgKhVzxKlIIeEBoOxDNhJlTvA0rTLF4p7MCkcox%2FxVXqcVMooBgfAY682TNU8KybNdUArUB9VKl5wxmpqXYx&data=05%7C01%7Cbiljana.vasic%40undp.org%7C528bf34aa41c4e9a15d008dabcf39ec8%7Cb3e5db5e2944483799f57488ace54319%7C0%7C0%7C638030051898407876%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=AwymTOEneEMh%2B17eKhBUFNB5JTNz2aMJfemJWytym90%3D&reserved=0",
+            "https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2F19843da8a5af4ec98bfa947ef0af50f7.svc.dynamics.com%2Ft%2Ft%2FyFCIKzndOvqw5nqweW7TaflLo0deCJWXxWXlI2UztuIx%2FxVXqcVMooBgfAY682TNU8KybNdUArUB9VKl5wxmpqXYx&data=05%7C01%7Cbiljana.vasic%40undp.org%7C528bf34aa41c4e9a15d008dabcf39ec8%7Cb3e5db5e2944483799f57488ace54319%7C0%7C0%7C638030051898407876%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=OhEf7D11KqT598yYHnfnZjnfZNbbbX5HjzKDBe%2FGXW4%3D&reserved=0"
+        ]
+    }
+],[],[],[],[],[],[],[],[],[],[
+    {
+        "1": "",
+        "2": "Time",
+        "3": "",
+        "4": "",
+        "5": "Session",
+        "6": ""
+    },
+    {
+        "1": "",
+        "2": "11.00 \u2013 11.05",
+        "3": "",
+        "4": "",
+        "5": "Opening Session & Agenda",
+        "6": ""
+    },
+    {
+        "1": "",
+        "2": "11.05 \u2013 11.25",
+        "3": "",
+        "4": "",
+        "5": "Funding principles",
+        "6": ""
+    },
+    {
+        "1": "",
+        "2": "11.25 \u2013 12.05",
+        "3": "",
+        "4": "",
+        "5": "Eligibility of project expenses",
+        "6": ""
+    },
+    {
+        "1": "",
+        "2": "12.05 \u2013 12.20",
+        "3": "",
+        "4": "",
+        "5": "Building your project budget",
+        "6": ""
+    },
+    {
+        "1": "",
+        "2": "12.20 \u2013 12.50",
+        "3": "",
+        "4": "",
+        "5": "Q&A",
+        "6": ""
+    },
+    {
+        "1": "",
+        "2": "12:50 \u2013 13:00",
+        "3": "",
+        "4": "",
+        "5": "Closure: Support to applicants & What\u2019s Next?",
+        "6": ""
+    }
+],[
     {
         "1": "",
         "2": "Selection Criterion",
@@ -6600,826 +7193,4 @@
         "1": "Jan-Feb 2025",
         "2": "Final reports due"
     }
-],[
-    {
-        "1": "1",
-        "2": "Chemical Sciences",
-        "3": "Organic Chemistry",
-        "4": "",
-        "5": "Dr. Amitava Roy",
-        "6": "Scientific Consultant",
-        "7": "",
-        "8": "",
-        "9": "Dr. S.V. Prasanna",
-        "10": "Scientist D",
-        "11": "",
-        "links": [
-            "directory#amitava_roy",
-            "directory#Prasanna"
-        ]
-    },
-    {
-        "1": "Inorganic & Physical Chemistry"
-    },
-    {
-        "1": "2",
-        "2": "Earth and Atmospheric Sciences",
-        "3": "Earth and Atmospheric Sciences",
-        "4": "Dr. Shashi Bhushan Pandey",
-        "5": "Scientist G",
-        "6": "Dr.Prahlad Ram",
-        "7": "Scientist D",
-        "links": [
-            "directory#sashi_pandey",
-            "directory#prahlad_ram"
-        ]
-    },
-    {
-        "1": "3",
-        "2": "Engineering Sciences",
-        "3": "Electrical, Electronics & Computer Engineering",
-        "4": "Dr. Praveen Kumar S",
-        "5": "Scientist F",
-        "6": "Dr. Anima Johari",
-        "7": "Scientist D",
-        "links": [
-            "directory#praveen_kumar",
-            "directory#anima_johari"
-        ]
-    },
-    {
-        "1": "Mechanical, Manufacturing, Aerospace Engineering & Robotics",
-        "2": "Dr. Praveen Kumar S",
-        "3": "Scientist F",
-        "4": "Dr. Pankaj Kr Rawat",
-        "5": "Scientist D",
-        "links": [
-            "directory#praveen_kumar",
-            "directory#pankaj_rawat"
-        ]
-    },
-    {
-        "1": "Civil, Infrastructure & Transportation Engineering",
-        "2": "Dr.Amitava Roy",
-        "3": "Consultant",
-        "4": "Dr. Pankaj Kr Rawat",
-        "5": "Scientist D",
-        "links": [
-            "directory#amitava_roy",
-            "directory#pankaj_rawat"
-        ]
-    },
-    {
-        "1": "Materials, Mining & Minerals Engineering",
-        "2": "Dr. Praveen Kumar S",
-        "3": "Scientist F",
-        "4": "Dr. Pankaj Kr Rawat",
-        "5": "Scientist D",
-        "links": [
-            "directory#praveen_kumar",
-            "directory#pankaj_rawat"
-        ]
-    },
-    {
-        "1": "Chemical and Environmental Engineering",
-        "2": "Dr. R.K. Mehajan",
-        "3": "Scientist G",
-        "4": "Dr. Sukumar Dey",
-        "5": "Scientist C",
-        "links": [
-            "directory#mahajan",
-            "directory#sukumar_dey"
-        ]
-    },
-    {
-        "1": "4",
-        "2": "Life Sciences",
-        "3": "Biomedical and Health Sciences",
-        "4": "Dr. Dipti Kakkar Thukral",
-        "5": "Scientist G",
-        "6": "Dr. A.V. Balachandar",
-        "7": "Scientist F",
-        "links": [
-            "directory#dipti_thukral",
-            "directory#balachandar"
-        ]
-    },
-    {
-        "1": "Interdisciplinary Biological Sciences",
-        "2": "Dr. Dipti Kakkar Thukral",
-        "3": "Scientist G",
-        "4": "Dr. T. Thangaradjou",
-        "5": "Scientist F",
-        "links": [
-            "directory#dipti_thukral",
-            "directory#thangaradjou"
-        ]
-    },
-    {
-        "1": "Organismal and Evolutionary Biology",
-        "2": "Dr. Dipti Kakkar Thukral",
-        "3": "Scientist G",
-        "4": "Dr. Shilpi Paul",
-        "5": "Scientist F",
-        "links": [
-            "directory#dipti_thukral",
-            "directory#shilpi_paul"
-        ]
-    },
-    {
-        "1": "Organismal and Evolutionary Biology (AS)",
-        "2": "Dr. Dipti Kakkar Thukral",
-        "3": "Scientist G",
-        "4": "Dr. Pramod Kumar Prasad",
-        "5": "Scientist D",
-        "links": [
-            "directory#dipti_thukral",
-            "directory#pramod_prasad"
-        ]
-    },
-    {
-        "1": "5",
-        "2": "Mathematical Sciences",
-        "3": "Mathematical Sciences",
-        "4": "Dr. Dipti Kakkar Thukral",
-        "5": "Scientist G",
-        "6": "Dr. Rajwant",
-        "7": "Scientist F",
-        "links": [
-            "directory#dipti_thukral",
-            "directory#rajwant"
-        ]
-    },
-    {
-        "1": "6",
-        "2": "Physical Sciences",
-        "3": "CMP-MS",
-        "4": "Dr. Shashi Bhushan Pandey",
-        "5": "Scientist G",
-        "6": "Dr. Nilotpal Ghosh",
-        "7": "Scientist F",
-        "links": [
-            "directory#sashi_pandey",
-            "directory#nilotpal_ghosh"
-        ]
-    },
-    {
-        "1": "PHENNA-LOM"
-    },
-    {
-        "1": "7",
-        "2": "Exponential Technology",
-        "3": "Dr.Premila Mohan",
-        "4": "Scientist G",
-        "5": "Dr. V. Ramesh",
-        "6": "Scientist D",
-        "links": [
-            "directory#premila_mohan",
-            "directory#ramesh"
-        ]
-    },
-    {
-        "1": "8",
-        "2": "Quantitative Social Sciences",
-        "3": "Quantitative Social Sciences",
-        "4": "Dr.Premila Mohan",
-        "5": "Scientist G",
-        "6": "Dr. Arvind Chaudhary",
-        "7": "Scientist D",
-        "links": [
-            "directory#premila_mohan",
-            "directory#arvind_chaudhary"
-        ]
-    },
-    {
-        "1": "",
-        "2": "Dr. Praveen Somasundaram",
-        "3": "Scientist F",
-        "4": "",
-        "5": "",
-        "6": "Dr. Shilpi Paul",
-        "7": "Scientist F",
-        "8": "",
-        "links": [
-            "directory#praveen_kumar",
-            "directory#shilpi_paul"
-        ]
-    },
-    {
-        "1": "Fund for Industrial Research Engagement (FIRE)",
-        "2": "Dr. Praveen kumar S",
-        "3": "Scientist F",
-        "links": [
-            "directory#praveen_kumar"
-        ]
-    },
-    {
-        "1": "Intensification of Research in High Priority Areas (IRHPA)",
-        "links": [
-            "#"
-        ]
-    },
-    {
-        "1": "1",
-        "2": "Empowerment and Equity Opportunities for Excellence in Science",
-        "3": "Dr. Premila Mohan",
-        "4": "Scientist G",
-        "5": "Dr. T. Thangaradjou",
-        "6": "Scientist F",
-        "links": [
-            "directory#premila_mohan",
-            "directory#thangaradjou"
-        ]
-    },
-    {
-        "1": "1",
-        "2": "Chemical Sciences",
-        "3": "Dr.Premila Mohan",
-        "4": "Scientist G",
-        "5": "Dr. S.V. Prasanna",
-        "6": "Scientist D",
-        "links": [
-            "directory#premila_mohan",
-            "directory#prasanna"
-        ]
-    },
-    {
-        "1": "2",
-        "2": "Earth & Atmospheric Sciences",
-        "3": "Dr.Premila Mohan",
-        "4": "Scientist G",
-        "5": "Dr.Prahlad Ram",
-        "6": "Scientist D",
-        "links": [
-            "directory#premila_mohan",
-            "directory#prahlad_ram"
-        ]
-    },
-    {
-        "1": "3",
-        "2": "Engineering Sciences",
-        "3": "Dr.Premila Mohan",
-        "4": "Scientist G",
-        "5": "Dr. Ramesh V",
-        "6": "Scientist D",
-        "links": [
-            "directory#premila_mohan",
-            "directory#ramesh_v"
-        ]
-    },
-    {
-        "1": "4",
-        "2": "Life Sciences",
-        "3": "Dr.Premila Mohan",
-        "4": "Scientist G",
-        "5": "Dr. Pramod Kumar Prasad",
-        "6": "Scientist D",
-        "links": [
-            "directory#premila_mohan",
-            "directory#pramod_prasad"
-        ]
-    },
-    {
-        "1": "5",
-        "2": "Physical & Mathematical Sciences",
-        "3": "Dr.Premila Mohan",
-        "4": "Scientist G",
-        "5": "Dr. K. Karunakaran Magesh Kumar",
-        "6": "Scientist D",
-        "links": [
-            "directory#premila_mohan",
-            "directory#magesh_kumar"
-        ]
-    },
-    {
-        "1": "1",
-        "2": "SERB \u2013 POWER Research Grants",
-        "3": "Dr. Shashi Bhushan Pandey",
-        "4": "Scientist G",
-        "5": "Dr Monika Agarwal",
-        "6": "Scientist F",
-        "links": [
-            "directory#sashi_pandey",
-            "directory#monika_agarwal"
-        ]
-    },
-    {
-        "1": "MATRICS",
-        "2": "Dr.Premila Mohan",
-        "3": "Scientist G",
-        "4": "Dr.K.K. Magesh Kumar",
-        "5": "Scientist D",
-        "links": [
-            "directory#premila_mohan",
-            "directory#magesh_kumar"
-        ]
-    },
-    {
-        "1": "International Travel Support",
-        "2": "Dr. Shashi Bhushan Pandey",
-        "3": "Scientist G",
-        "4": "Dr. Sukumar Dey",
-        "5": "Scientist C",
-        "links": [
-            "directory#sashi_pandey",
-            "directory#sukumar_dey"
-        ]
-    },
-    {
-        "1": "Assistance to Professional Bodies & Seminars/Symposia",
-        "2": "Dr. Shashi Bhushan Pandey",
-        "3": "Scientist G",
-        "4": "Dr. Sukumar Dey",
-        "5": "Scientist C",
-        "links": [
-            "directory#sashi_pandey",
-            "directory#sukumar_dey"
-        ]
-    },
-    {
-        "1": "",
-        "2": "Dr. Premila Mohan",
-        "3": "Scientist G",
-        "4": "",
-        "5": "Dr. V. Ramesh",
-        "6": "Scientist D",
-        "7": "",
-        "links": [
-            "directory#premila_mohan",
-            "directory#ramesh_v"
-        ]
-    }
-],[],[
-    {
-        "1": "cookielawinfo-checkbox-analytics",
-        "2": "11 months",
-        "3": "This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category \"Analytics\"."
-    },
-    {
-        "1": "cookielawinfo-checkbox-functional",
-        "2": "11 months",
-        "3": "The cookie is set by GDPR cookie consent to record the user consent for the cookies in the category \"Functional\"."
-    },
-    {
-        "1": "cookielawinfo-checkbox-necessary",
-        "2": "11 months",
-        "3": "This cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category \"Necessary\"."
-    },
-    {
-        "1": "cookielawinfo-checkbox-others",
-        "2": "11 months",
-        "3": "This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category \"Other."
-    },
-    {
-        "1": "cookielawinfo-checkbox-performance",
-        "2": "11 months",
-        "3": "This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category \"Performance\"."
-    },
-    {
-        "1": "viewed_cookie_policy",
-        "2": "11 months",
-        "3": "The cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data."
-    }
-],[],[],[
-    {
-        "1": "",
-        "2": "",
-        "3": "",
-        "4": "",
-        "5": "Women's Peace and Humanitarian Fund -",
-        "6": "Open",
-        "7": "",
-        "8": "The United Nations",
-        "9": "Women\u2019s Peace and Humanitarian Fund",
-        "10": "is pleased to inform you\u00a0of\u00a0the launch of its latest",
-        "11": "Call for Proposals in Ukraine",
-        "12": "which is available in both\u00a0Ukrainian\u00a0and\u00a0English.\u00a0This Call for Proposals\u00a0provides grants for civil society organizations\u00a0working across Ukraine to ensure the protection of women and girls as well as promote their participation and leadership in humanitarian crisis and response efforts.",
-        "13": "",
-        "14": "",
-        "15": "",
-        "16": "This call\u00a0seeks to fund qualifying local civil society organizations in Ukraine through:",
-        "17": "",
-        "18": "Programmatic funding from\u202f30,000 USD to 500,000 USD",
-        "19": "",
-        "20": "",
-        "21": "To finance programmatic activities of civil society organizations that (i) promote the participation and leadership of women in humanitarian crisis and response (aligned with WPHF impact area 3) OR (ii) that enhance the protection of women and girls (aligned with WPHF impact area 5).",
-        "22": "",
-        "23": "",
-        "24": "",
-        "25": "The application deadline is",
-        "26": "28",
-        "27": "th",
-        "28": "of July 2023",
-        "29": ".",
-        "30": "",
-        "31": "",
-        "32": "",
-        "33": "",
-        "links": [
-            "https://eur03.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.wphfund.org%2F&data=05%7C01%7Cbiljana.vasic%40undp.org%7C51f707cf869c4ba6642b08db71af2c18%7Cb3e5db5e2944483799f57488ace54319%7C0%7C0%7C638228769396835235%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=CAZJ4v65vw6hSNeWV5iNOzsos0A6Ml9MWwB5wcyw75g%3D&reserved=0",
-            "https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwphfund.org%2Fcall-for-proposals-in-ukraine-2%2F&data=05%7C01%7Cbiljana.vasic%40undp.org%7C51f707cf869c4ba6642b08db71af2c18%7Cb3e5db5e2944483799f57488ace54319%7C0%7C0%7C638228769396835235%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=jyLTx3QeFvcrsnq7j55BZH2kYfzi74XKXwtF2PAkCGk%3D&reserved=0"
-        ]
-    },
-    {
-        "1": "",
-        "2": "",
-        "3": "",
-        "4": "",
-        "5": "Malaysia-UN SDG Trust Fund -",
-        "6": "Open",
-        "7": "",
-        "8": "The Malaysia-UN SDG Trust Fund is a partnership between the United Nations and the Malaysian government to support sustainable development in Malaysia. The Fund aims to improve the lives of people in different areas and groups, particularly those who are at risk of being left behind, by focusing on local efforts.",
-        "9": "",
-        "10": "The Call for Proposals 2023 is an opportunity for organizations to submit proposals that contribute to the SDGs in Malaysia.",
-        "11": "",
-        "12": "",
-        "13": "",
-        "14": "The Malaysia-UN SDG Trust Fund, a collaborative initiative between the MySDG Foundation and the United Nations in Malaysia, supported by the Government of Malaysia, announces the launch of its",
-        "15": "2023 Call for Proposals (CFP-2023).",
-        "16": "This first call for proposals aims to accelerate progress towards the Sustainable Development Goals (SDGs) across Malaysia, by focusing on groups and communities at risk of being left behind.",
-        "17": "The CFP-2023 invites project proposals from UN agencies, Malaysian civil society organizations, non-governmental organizations, and academia engaged in SDG implementation and advocacy. A total sum of USD3.6 million (approximately MYR16,200,000 based on USD1= MYR4.50 exchange rate) will be disbursed to approved projects, enabling their impactful implementation.",
-        "18": "",
-        "19": "Call for proposals",
-        "20": "closes 14 July 2023",
-        "21": "",
-        "22": "Vi",
-        "23": "sit Malaysia-UN SDG Trust Fund webpage for more information.",
-        "24": "",
-        "25": "",
-        "26": "",
-        "27": "",
-        "links": [
-            "https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fmalaysia.un.org%2Fsites%2Fdefault%2Ffiles%2F2023-06%2FCFP-2023%2520Malaysia-UN%2520SDG%2520Trust%2520Fund%2520brochure_0.pdf&data=05%7C01%7Cmari.matsumoto%40undp.org%7Ccc5c56f071b641cb2d4108db6256b2b5%7Cb3e5db5e2944483799f57488ace54319%7C0%7C0%7C638211897701339545%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=HAto5x65dTCI%2BLRltS0Qj5R0bP5NGmMVNQeqTUnVP0Y%3D&reserved=0",
-            "https://malaysia.un.org/en/232871-call-proposals-2023-malaysia-un-sdg-trust-fund",
-            "https://malaysia.un.org/en/232871-call-proposals-2023-malaysia-un-sdg-trust-fund"
-        ]
-    },
-    {
-        "1": "",
-        "2": "",
-        "3": "",
-        "4": "",
-        "5": "Women's Peace and Humanitarian Fund -",
-        "6": "Completed",
-        "7": "",
-        "8": "The United Nations Women\u2019s Peace and Humanitarian Fund (WPHF) is looking to strengthen collaboration with non-governmental organizations with expertise in Asia and the Pacific to enhance the protection of women human rights defenders at risk in the region.",
-        "9": "",
-        "10": "WPHF seeks to identify a credible and experienced\u00a0international, regional, or national non-governmental organization (I/NGO)\u00a0to support\u00a0its",
-        "11": "Women Human Rights Defender (WHRD) Window",
-        "12": "in providing financial support to WHRDs from and/or working in conflict and crisis contexts in Asia and the Pacific, notably Afghanistan and Myanmar.",
-        "13": "",
-        "14": "The selected I/NGO will support the\u00a0implementation of emergency grant-making to WHRDs through\u00a0the WHRD Window",
-        "15": "Safety Net stream",
-        "16": ", which provides rapid and flexible funding \u2014 currently in partnership with five INGOs \u2014 to enhance the protection of WHRDs from/working in conflict and crisis-affected countries.",
-        "17": "",
-        "18": "",
-        "19": "",
-        "20": "Eligibility",
-        "21": "I/NGOs which have experience working with WHRDs in fragile and conflict-affected contexts in Asia and the Pacific \u2014 specifically in Afghanistan and Myanmar \u2014 are eligible to apply. Organizations need to have a proven track record working on women\u2019s rights, following feminist and human-rights based principles, addressing violence against women and girls, and protection issues of women and girls. Organizations with language capabilities relevant to Afghanistan and Myanmar will be a distinct asset.",
-        "22": "",
-        "23": "Size of Grants & Funding",
-        "24": "The WPHF will grant a maximum of\u00a0$400,000 USD\u00a0to an I/NGO\u00a0and up to\u00a0$700,000 USD\u00a0for a consortium\u00a0of\u00a0I/NGOs\u00a0to\u00a0deliver on activities to meet objectives.",
-        "25": "",
-        "26": "APPLICATION PACKAGES SHOULD BE EMAILED IN ENGLISH TO",
-        "27": "WPHF-WHRD@UNWOMEN.ORG",
-        "28": "WITH THE SUBJECT LINE \u201c",
-        "29": "WPHF-WHRD I/NGO PARTNERSHIP CFP.\u201d",
-        "30": "",
-        "31": "APPLICATION DEADLINE: 10 MARCH 2023",
-        "32": "",
-        "33": "An",
-        "34": "information session",
-        "35": "will be organized with prospective applicants on",
-        "36": "23 February at 1:30 pm Geneva time",
-        "37": ".\u00a0To register your interest, please send an email to",
-        "38": "WPHF-WHRD@unwomen.org",
-        "39": "with the subject line \u201cWPHF-WHRD I/NGO Partnership Information Session.\u201d",
-        "40": "",
-        "41": "Download applications",
-        "42": "here.",
-        "43": "",
-        "44": "",
-        "45": "",
-        "46": "",
-        "links": [
-            "https://wphfund.org/whrds/",
-            "https://wphfund.org/whrds-safety-net/",
-            "mailto:WPHF-WHRD@unwomen.org",
-            "mailto:WPHF-WHRD@unwomen.org",
-            "https://wphfund.org/call-for-proposals-for-i-ngo-partner-in-asia-and-the-pacific/"
-        ]
-    },
-    {
-        "1": "",
-        "2": "CRAF'd",
-        "3": "Completed",
-        "4": "",
-        "5": "The",
-        "6": "Complex Risk Analytics\u00a0Fund",
-        "7": "(CRAF\u2019d) is pleased to announce an",
-        "8": "Open Call for Proposals on Climate Fragility Risks.",
-        "9": "",
-        "10": "With a funding envelope of $3 million, CRAF\u2019d will support projects that use analytics and artificial intelligence to help global stakeholders anticipate, prevent, and respond to climate fragility risks.",
-        "11": "",
-        "12": "Apply now",
-        "13": "and submit a concept note",
-        "14": "by 25 November 2022",
-        "15": ". Please also share this email with relevant partners.",
-        "16": "",
-        "17": "",
-        "18": "\u200c",
-        "19": "About the Call",
-        "20": "",
-        "21": "Climate change is one of the greatest global challenges of our time. More frequent and intense weather events, such as floods and heat waves, are hitting the most vulnerable people the hardest. Climate fragility risks, including food insecurity, resource water scarcity, displacement, or insecurity, can emerge when the adverse effects of climate change compound conditions in fragile contexts.",
-        "22": "CRAF\u2019d is seeking projects that unlock the potential of analytics and artificial intelligence to contribute to a better understanding of climate fragility risks and translate insights into earlier, faster, and more targeted crisis action. In addition, CRAF\u2019d will support projects that advance monitoring and evaluation of data-driven crisis action related to climate fragility risks.",
-        "23": "Information Sessions",
-        "24": "If you are interested to learn more about this Open Call for Proposals and the application process, please register for one of the information sessions on",
-        "25": "Wednesday, 9 November 2022.",
-        "links": [
-            "https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2F19843da8a5af4ec98bfa947ef0af50f7.svc.dynamics.com%2Ft%2Ft%2FdDHGPrgKhVzxKlIIeEBoOxDNhJlTvA0rTLF4p7MCkcox%2FxVXqcVMooBgfAY682TNU8KybNdUArUB9VKl5wxmpqXYx&data=05%7C01%7Cbiljana.vasic%40undp.org%7C528bf34aa41c4e9a15d008dabcf39ec8%7Cb3e5db5e2944483799f57488ace54319%7C0%7C0%7C638030051898407876%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=AwymTOEneEMh%2B17eKhBUFNB5JTNz2aMJfemJWytym90%3D&reserved=0",
-            "https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2F19843da8a5af4ec98bfa947ef0af50f7.svc.dynamics.com%2Ft%2Ft%2FyFCIKzndOvqw5nqweW7TaflLo0deCJWXxWXlI2UztuIx%2FxVXqcVMooBgfAY682TNU8KybNdUArUB9VKl5wxmpqXYx&data=05%7C01%7Cbiljana.vasic%40undp.org%7C528bf34aa41c4e9a15d008dabcf39ec8%7Cb3e5db5e2944483799f57488ace54319%7C0%7C0%7C638030051898407876%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=OhEf7D11KqT598yYHnfnZjnfZNbbbX5HjzKDBe%2FGXW4%3D&reserved=0"
-        ]
-    }
-],[
-    {
-        "1": "S.No.",
-        "2": "Funding Agency",
-        "3": "Scheme",
-        "4": "Deadline",
-        "5": "Weblink"
-    },
-    {
-        "1": "1",
-        "2": "DST-SERB",
-        "3": "Start-up Research Grant (SRG)",
-        "4": "03-01-2023",
-        "5": "Visit Website",
-        "links": [
-            "https://serb.gov.in/page/research_grants#Start-up%20Research%20Grant%20(SRG"
-        ]
-    },
-    {
-        "1": "2",
-        "2": "DST-SERB",
-        "3": "SERB \u2013 POWER",
-        "4": "08-01-2023",
-        "5": "Visit Website",
-        "links": [
-            "https://serb.gov.in/page/research_grants#SERB%20%E2%80%93%20POWER%20Research%20Grants"
-        ]
-    },
-    {
-        "1": "3",
-        "2": "DST",
-        "3": "India-Israel Scientific Research Program CALL FOR JOINT PROJECT PROPOSALS For the Years 2023",
-        "4": "05-02-2023",
-        "5": "Visit Website",
-        "links": [
-            "https://onlinedst.gov.in/Projectproposalformat.aspx?Id=India%20Israel%20Joint%20Research%20Cooperation"
-        ]
-    },
-    {
-        "1": "4",
-        "2": "DST",
-        "3": "Australia-India Strategic Research Fund: collaborative research projects Round 15",
-        "4": "03-03-2023",
-        "5": "Visit Website",
-        "links": [
-            "https://dst.gov.in/callforproposals/australia-india-strategic-research-fund-collaborative-research-projects-round-15"
-        ]
-    },
-    {
-        "1": "5",
-        "2": "DST-SERB",
-        "3": "SERB Science and Technology Award for Research (SERB-STAR)",
-        "4": "05-10-2023",
-        "5": "Visit Website",
-        "links": [
-            "https://serb.gov.in/page/awards_fellowship#SERB%20Science%20and%20Technology%20Award%20for%20Research%20(SERB-STAR"
-        ]
-    },
-    {
-        "1": "6",
-        "2": "DST-SERB",
-        "3": "SERB-TETRA (Technology Translation Award)",
-        "4": "08-10-2023",
-        "5": "Visit Website",
-        "links": [
-            "https://serb.gov.in/page/awards_fellowship#SERB%20Technology%20Translation%20Award%20(SERB-TETRA"
-        ]
-    },
-    {
-        "1": "7",
-        "2": "DST-SERB",
-        "3": "SERB-SUPRA (Scientific and Useful Profound Research Advancement)",
-        "4": "04-11-2023",
-        "5": "Visit Website",
-        "links": [
-            "https://serb.gov.in/page/research_grants#Scientific%20and%20Useful%20Profound%20Research%20Advancement%20(SUPRA"
-        ]
-    },
-    {
-        "1": "8",
-        "2": "Ministry of Earth Sciences (MoES), Government of India",
-        "3": "Call for Proposals for collaborative research under Deep Ocean Mission (DOM)",
-        "4": "09-12-2023",
-        "5": "Visit Website",
-        "links": [
-            "https://www.indiascienceandtechnology.gov.in/announcementsopportunity/ministry-earth-sciences-moes-announces-call-proposals-collaborative-research-under-deep-ocean"
-        ]
-    },
-    {
-        "1": "9",
-        "2": "Australian High Commission New Delhi",
-        "3": "Australian-India Cyber and Critical Technology Partnership Grants Round 3",
-        "4": "14/04/2023",
-        "5": "Visit Website",
-        "links": [
-            "https://india.highcommission.gov.au/ndli/AICCTP.html"
-        ]
-    },
-    {
-        "1": "10",
-        "2": "DST-SERB",
-        "3": "Empowerment and Equity Opportunities for Excellence in Science (EMEQ)",
-        "4": "14/6/2023",
-        "5": "Visit Website",
-        "links": [
-            "https://serb.gov.in/page/research_grants#Empowerment%20and%20Equity%20Opportunities%20for%20Excellence%20in%20Science%20(EMEQ%20"
-        ]
-    },
-    {
-        "1": "11",
-        "2": "DST",
-        "3": "Indo-Russian Joint Research Call 2023",
-        "4": "15/06/2023",
-        "5": "Visit Website",
-        "links": [
-            "https://dst.gov.in/callforproposals/dst-rsf-joint-call-2023"
-        ]
-    },
-    {
-        "1": "12",
-        "2": "DST-SERB",
-        "3": "Core Research Grant (CRG)",
-        "4": "15/3/2023",
-        "5": "Visit Website",
-        "links": [
-            "https://serb.gov.in/page/research_grants#Core%20Research%20Grant%20(CRG"
-        ]
-    },
-    {
-        "1": "13",
-        "2": "USIEF",
-        "3": "2024-2025 Fulbright-Nehru Academic and Professional Excellence Fellowships",
-        "4": "17/07/2023",
-        "5": "Visit Website",
-        "links": [
-            "https://www.usief.org.in/Fellowships/Fulbright-Nehru-Academic-Professional-Excellence-Fellowships.aspx"
-        ]
-    },
-    {
-        "1": "14",
-        "2": "DST-SERB",
-        "3": "Teachers Associateship For Research Excellence (TARE)",
-        "4": "21/3/2023",
-        "5": "Visit Website",
-        "links": [
-            "https://serb.gov.in/page/awards_fellowship#Teachers%20Associateship%20for%20Research%20Excellence%20(TARE"
-        ]
-    },
-    {
-        "1": "15",
-        "2": "U.S. Consulate",
-        "3": "U.S. Mission to India: PDS \u2013 Annual Program Statement 2023",
-        "4": "22/04/2023",
-        "5": "Visit Website",
-        "links": [
-            "https://www.grants.gov/web/grants/view-opportunity.html?oppId=346249"
-        ]
-    },
-    {
-        "1": "16",
-        "2": "DST",
-        "3": "FIST",
-        "4": "25/04/2023",
-        "5": "Visit Website",
-        "links": [
-            "https://dst.gov.in/callforproposals/advertisement-fist-2023"
-        ]
-    },
-    {
-        "1": "17",
-        "2": "Indian Knowledge Systems, Ministry of Education, Government of India",
-        "3": "BGSamvardhana Yojana-2 (Outcome based Research Proposals)",
-        "4": "25/2/2023",
-        "5": "Visit Website",
-        "links": [
-            "https://iksindia.org/research-proposal-form.php"
-        ]
-    },
-    {
-        "1": "18",
-        "2": "DST-SERB",
-        "3": "Mathematical Research Impact Centric Support (MATRICS)",
-        "4": "28/3/2023",
-        "5": "Visit Website",
-        "links": [
-            "https://serb.gov.in/page/research_grants#Mathematical%20Research%20Impact%20Centric%20Support%20(MATRICS"
-        ]
-    },
-    {
-        "1": "19",
-        "2": "DST",
-        "3": "India-EU Joint Call for Proposal",
-        "4": "29/3/2023",
-        "5": "Visit Website",
-        "links": [
-            "https://dst.gov.in/callforproposals/india-eu-joint-call-proposal"
-        ]
-    },
-    {
-        "1": "20",
-        "2": "Department of Science and Technology (DST)",
-        "3": "Indian- Argentine Scientific Research Program",
-        "4": "30/04/2023",
-        "5": "Visit Website",
-        "links": [
-            "https://onlinedst.gov.in/Projectproposalformat.aspx?Id=Indo%20Argentina%20joint%20call%202023"
-        ]
-    },
-    {
-        "1": "21",
-        "2": "USIEF",
-        "3": "Fulbright-Nehru Specialist Program 2023-24",
-        "4": "30/04/2023",
-        "5": "Visit Website",
-        "links": [
-            "https://www.usief.org.in/Fellowships/FIC-Fulbright-Specialist-Program.aspx"
-        ]
-    },
-    {
-        "1": "22",
-        "2": "DST",
-        "3": "Science and Heritage Research Initiative (SHRI)",
-        "4": "31/03/2023",
-        "5": "Visit Website",
-        "links": [
-            "https://onlinedst.gov.in/Login.aspx"
-        ]
-    },
-    {
-        "1": "23",
-        "2": "The Indo-German Science & Technology Centre (IGSTC)",
-        "3": "IGSTC Call for Proposals for organising Indo-German Bilateral Workshops",
-        "4": "31/07/2023",
-        "5": "Visit Website",
-        "links": [
-            "https://www.igstc.org/home/open_call"
-        ]
-    },
-    {
-        "1": "24",
-        "2": "DST",
-        "3": "DST-VAIBHAV Fellowships",
-        "4": "31/07/2023",
-        "5": "Visit Website",
-        "links": [
-            "https://dst.gov.in/sites/default/files/VAIBHAV%20Fellowships.pdf"
-        ]
-    },
-    {
-        "1": "25",
-        "2": "DST",
-        "3": "Call for proposals on Hydrogen Valley Platform in India",
-        "4": "31/3/2023",
-        "5": "Visit Website",
-        "links": [
-            "https://dst.gov.in/callforproposals/call-proposals-hydrogen-valley-platform-india"
-        ]
-    },
-    {
-        "1": "26",
-        "2": "Centre For High Technology, Ministry of Petroleum & Natural Gas, Government of India",
-        "3": "R&D proposals are invited for funding by CHT in multiple interdisciplinary domains",
-        "4": "31/3/2023",
-        "5": "Visit Website",
-        "links": [
-            "https://cht.gov.in/en/pages/procedure-for-inviting-new-proposals"
-        ]
-    },
-    {
-        "1": "27",
-        "2": "The Indo-German Science & Technology Centre (IGSTC)",
-        "3": "IGSTC announces WISER program for women researchers in India & Germany",
-        "4": "Applications accepted throughout the year",
-        "5": "Visit Website",
-        "links": [
-            "https://www.igstc.org/home/wiser"
-        ]
-    },
-    {
-        "1": "DST: Department of Science and Technology, Government of India",
-        "2": "DST-SERB: Science and Engineering Research Board, DST, Government of India"
-    }
-]]
+],[],[],[]]
