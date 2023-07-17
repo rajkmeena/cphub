@@ -76,6 +76,18 @@ npm i
 npm start
 ```
 
+- To ensure Login/Logout feature work properly
+
+```
+npm install firebase
+```
+
+- Create a FIREBASE project from https://firebase.google.com/
+- Add your api key and all firebase SDK from FIREBASE Project to firebase.js
+```
+cd frontend/cphub/src/components
+```
+
 ## Usage:
 
 This application features an example Proposals webpage using a Crawler, Scraper, React, and FastAPI. This app can be used as an example of a single-page application featuring authorized login features, Tailwind CSS, and FastAPI for faster data display on the frontend. All of the npm libraries used for this app can be found within the dependencies in the package.json files in the client and server folders.
