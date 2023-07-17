@@ -1,57 +1,34 @@
 import React, { useState, useEffect } from 'react';
-import { GoogleLogin, GoogleLogout } from 'react-google-login';
 import "./login.css";
-
+import GoogleButton from 'react-google-button'
+import { UserAuth } from '../context/AuthContext';
+import { useNavigate } from 'react-router-dom';
   
 function Main() {
-  const [isLoggedIn, setLoggedIn] = useState(false);
-  const [isPageLoaded, setPageLoaded] = useState(false);
 
-  useEffect(() => {
-    setPageLoaded(true);
-  }, []);
+  const { googleSignIn, user } = UserAuth();
+  const navigate = useNavigate();
 
-  const handleLoginSuccess = (response) => {
-    console.log('Login successful:', response);
-    setLoggedIn(true);
-  };
-
-  const handleLoginFailure = (error) => {
-    if (error.error === 'popup_closed_by_user') {
-      // Handle popup closed by user
-      console.log('Login canceled by user');
-    } else {
-      // Handle other login failures
-      console.log('Login failed:', error);
+  const handleGoogleSignIn = async () => {
+    try {
+      await googleSignIn();
+    } catch (error) {
+      console.log(error);
     }
   };
 
-  const handleLogoutSuccess = () => {
-    console.log('Logged out');
-    setLoggedIn(false);
-  };
+  useEffect(() => {
+    if (user != null) {
+      navigate('/details');
+    }
+  }, [user]);
 
   return (
     <div className='login'>
-      <h1>Login Page</h1>
-      {!isLoggedIn ? (
-        <GoogleLogin
-          clientId="193142643696-fbn7ej91ian8qkfktjeet078mis1uecn.apps.googleusercontent.com"
-          buttonText="Login with Google"
-          onSuccess={handleLoginSuccess}
-          onFailure={handleLoginFailure}
-          cookiePolicy={'single_host_origin'}
-        />
-      ) : (
-        <div>
-          <p>You are logged in!</p>
-          <GoogleLogout
-            clientId="193142643696-fbn7ej91ian8qkfktjeet078mis1uecn.apps.googleusercontent.com"
-            buttonText="Logout"
-            onLogoutSuccess={handleLogoutSuccess}
-          />
-        </div>
-      )}
+      <h1 className='signIn'>Sign in</h1>
+      <div className='button'>
+        <GoogleButton onClick={handleGoogleSignIn}/>
+      </div>
     </div>
   );
 }

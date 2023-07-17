@@ -80,4 +80,21 @@
 	  outline: none;
 	}
   }
+
+
+  .LogOutButton {
+	background-color: #f4c700;
+	color: #ffffff;
+	border: none;
+	border-radius: 5px;
+	padding: 10px 20px;
+	cursor: pointer;
+	font-size: 16px;
+	transition: background-color 0.2s;
+  }
+  
+  .LogOutButton:hover {
+	background-color: #f8f0ce;
+	color: #f4c700;
+  }
   

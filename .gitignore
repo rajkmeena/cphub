@@ -6,6 +6,7 @@
 /.pnp
 .pnp.js
 /backend/crawler/crawler/spiders/call_for_proposals.json
+/frontend/cphub/src/components/firebase.js
 
 # testing
 /coverage

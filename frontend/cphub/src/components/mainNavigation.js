@@ -1,8 +1,20 @@
 import React, { useEffect, useRef, useState } from 'react';
 import { NavLink } from 'react-router-dom';
 import './mainNavigation.css';
+import { UserAuth } from './context/AuthContext';
 
 function MainNavigation() {
+
+  const { user, logOut } = UserAuth();
+
+  const handleSignOut = async () => {
+    try {
+      await logOut()
+    } catch (error) {
+      console.log(error)
+    }
+  }
+
   const horiSelectorRef = useRef(null);
   const [activeLink, setActiveLink] = useState(null);
 
@@ -62,9 +74,15 @@ function MainNavigation() {
             </NavLink>
           </li>
           <li className="nav-item">
-            <NavLink to="/loginPage" className="nav-link">
-              Sign In
-            </NavLink>
+            {user?.displayName ? (
+              <button onClick={handleSignOut} className='LogOutButton'>Logout</button>
+            ) : (
+              <NavLink to='/loginPage'>
+                <button onClick={handleSignOut} className='LogOutButton'>
+                LogIn
+                </button>
+                </NavLink>
+            )}
           </li>
         </ul>
         <div ref={horiSelectorRef} className="hori-selector active"></div>
