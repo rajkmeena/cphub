@@ -63,7 +63,7 @@ function MainNavigation() {
           </li>
           <li className="nav-item">
             <NavLink to="/loginPage" className="nav-link">
-              Contact
+              Sign In
             </NavLink>
           </li>
         </ul>
