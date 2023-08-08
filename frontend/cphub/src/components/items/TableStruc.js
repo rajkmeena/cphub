@@ -2,7 +2,7 @@ import React from 'react'
 // import { Table } from 'react-bootstrap'
 import {useState, useEffect} from 'react'
 import validator from 'validator';
-import './TableStruc.css'
+import './TableStruc.css';
 
 function isNumeric(n) {
   return !isNaN(parseFloat(n)) && isFinite(n);
@@ -48,22 +48,36 @@ const objMap=(obj)=>{
 
 
 const TableStruc = () => {
-  const [data, setData] = useState([]);
-const getData = () => {
-  fetch( 'http://127.0.0.1:8001/file', {
-    headers: {
-      "Content-Type": "application/json",
-      Accept: "application/json",
-    },
-  })
-  .then(function (response) {
-    // console.log(response);
-    return response.json();
-  })
-  .then(function (myJson) {
-      // console.log(myJson);
-      setData(myJson);
-    });
+  const [data, setData] = useState(null);
+  const [isLoading, setIsLoading] = useState(true);
+  const [error, setError] = useState(null); // New error state
+  const delay = (time) => {
+    return new Promise((resolve) => setTimeout(resolve, time));
+  };
+  const getData = async() => {
+    await delay(1000);
+    setIsLoading(true)
+    fetch('http://127.0.0.1:8001/file', {
+      headers: {
+        'Content-Type': 'application/json',
+        Accept: 'application/json',
+      },
+    })
+      .then(function (response) {
+        if (!response.ok) {
+          throw new Error('Failed to fetch data'); // Handle non-200 response
+        }
+        setIsLoading(false);
+        return response.json();
+      })
+      .then(function (myJson) {
+        setData(myJson);
+        setIsLoading(false);
+      })
+      .catch(function (error) {
+        setError(error); // Set the error state
+        setIsLoading(false);
+      });
   };
   let num=1
   useEffect(() => {
@@ -78,7 +92,12 @@ const getData = () => {
       <br></br>
       <br></br>
       <div className="DataTable">
-        <table>
+      {!data ? (
+          <div>
+            <div class="loader">Loading...</div>
+          </div>
+        ) : (
+          <table>
           <thead>
             <tr>
                 {/* {   
@@ -110,23 +129,10 @@ const getData = () => {
             })}
           </tbody>
         </table>
+        )}
       </div>
     </div>
   );
 }
 
 export default TableStruc
-
-
-
-// const checkDates=async(url,s)=> {
-//     // Default options are marked with *
-//     const response = await fetch(url, {
-//       method: "POST", // *GET, POST, PUT, DELETE, etc.
-//       headers: {
-//         "Content-Type": "application/json",
-//       },
-//       body: JSON.stringify({string:s}), // body data type must match "Content-Type" header
-//     });
-//      console.log(await response.json()); // parses JSON response into native JavaScript objects
-//   }
